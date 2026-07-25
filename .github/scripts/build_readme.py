@@ -35,7 +35,7 @@ def get_topics_from_leetcode(title_slug):
 
 def main():
     root_dir = "."
-    pattern = re.compile(r"^\d{4}-")  # Matches folders like 0026-remove-duplicates...
+    pattern = re.compile(r"^\d+-")  # Matches any problem number length (101-, 112-, 0026-, etc.)
     
     # Map topic -> list of folder names
     topic_map = defaultdict(list)
@@ -66,6 +66,11 @@ def main():
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write("\n".join(content))
+
+    print("README.md generated successfully!")
+
+if __name__ == "__main__":
+    main()
 
     print("README.md generated successfully!")
 
