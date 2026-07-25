@@ -18,7 +18,7 @@ def get_topics_from_leetcode(title_slug):
     """
     payload = {
         "query": query,
-        "variables": {"titleSlug": titleSlug}
+        "variables": {"titleSlug": title_slug}
     }
     headers = {"Content-Type": "application/json", "User-Agent": "Mozilla/5.0"}
     try:
