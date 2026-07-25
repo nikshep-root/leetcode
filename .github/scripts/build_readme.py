@@ -25,10 +25,12 @@ def get_topics_from_leetcode(title_slug):
         response = requests.post(LEETCODE_GRAPHQL_URL, json=payload, headers=headers)
         if response.status_code == 200:
             data = response.json()
-            tags = data.get("data", {}).get("question", {}).get("topicTags", [])
-            return [tag["name"] for tag in tags]
+            if data and data.get("data") and data["data"].get("question"):
+                tags = data["data"]["question"].get("topicTags", [])
+                if tags:
+                    return [tag["name"] for tag in tags]
     except Exception as e:
-        print(f"Error fetching tags for {titleSlug}: {e}")
+        print(f"Error fetching tags for {title_slug}: {e}")
     return ["Uncategorized"]
 
 def main():
@@ -43,8 +45,8 @@ def main():
     print(f"Found {len(entries)} problem folders.")
 
     for folder in entries:
-        # Extract title slug by stripping leading digits and dash (e.g., 'remove-duplicates-from-sorted-array')
-        slug = re.sub(r"^\d+ -?", "", folder).strip()
+        # Strip numbers and clean up folder name to get the title slug
+        slug = re.sub(r"^\d+[\s-]*", "", folder).strip().lower()
         tags = get_topics_from_leetcode(slug)
         
         for tag in tags:
