@@ -36,6 +36,13 @@
 | [226-invert-binary-tree](./226-invert-binary-tree) |
 
 
+## Counting
+
+| Problem Folder |
+| :--- |
+| [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
+
+
 ## Depth-First Search
 
 | Problem Folder |
@@ -53,6 +60,13 @@
 | Problem Folder |
 | :--- |
 | [3805-maximize-active-section-with-trade-i](./3805-maximize-active-section-with-trade-i) |
+
+
+## Hash Table
+
+| Problem Folder |
+| :--- |
+| [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 
 
 ## Linked List
@@ -75,6 +89,7 @@
 
 | Problem Folder |
 | :--- |
+| [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 
@@ -90,6 +105,7 @@
 
 | Problem Folder |
 | :--- |
+| [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [3805-maximize-active-section-with-trade-i](./3805-maximize-active-section-with-trade-i) |
 
 
