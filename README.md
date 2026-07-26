@@ -136,6 +136,14 @@
 | :--- |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [3805-maximize-active-section-with-trade-i](./3805-maximize-active-section-with-trade-i) |
+| [812-rotate-string](./812-rotate-string) |
+
+
+## String Matching
+
+| Problem Folder |
+| :--- |
+| [812-rotate-string](./812-rotate-string) |
 
 
 ## Tree
