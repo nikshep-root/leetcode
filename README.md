@@ -8,6 +8,7 @@
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
+| [941-sort-array-by-parity](./941-sort-array-by-parity) |
 
 
 ## Binary Search
@@ -111,6 +112,7 @@
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
+| [941-sort-array-by-parity](./941-sort-array-by-parity) |
 
 
 ## Stack
@@ -138,4 +140,11 @@
 | [129-sum-root-to-leaf-numbers](./129-sum-root-to-leaf-numbers) |
 | [226-invert-binary-tree](./226-invert-binary-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
+
+
+## Two Pointers
+
+| Problem Folder |
+| :--- |
+| [941-sort-array-by-parity](./941-sort-array-by-parity) |
 
