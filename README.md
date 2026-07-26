@@ -5,6 +5,7 @@
 | Problem Folder |
 | :--- |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
+| [238-product-of-array-except-self](./238-product-of-array-except-self) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
@@ -101,6 +102,13 @@
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
+
+
+## Prefix Sum
+
+| Problem Folder |
+| :--- |
+| [238-product-of-array-except-self](./238-product-of-array-except-self) |
 
 
 ## Sorting
