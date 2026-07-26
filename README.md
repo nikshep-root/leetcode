@@ -4,8 +4,16 @@
 
 | Problem Folder |
 | :--- |
+| [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
+
+
+## Binary Search
+
+| Problem Folder |
+| :--- |
+| [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 
 
 ## Binary Tree
@@ -62,6 +70,13 @@
 | [3805-maximize-active-section-with-trade-i](./3805-maximize-active-section-with-trade-i) |
 
 
+## Greedy
+
+| Problem Folder |
+| :--- |
+| [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
+
+
 ## Hash Table
 
 | Problem Folder |
@@ -90,6 +105,7 @@
 | Problem Folder |
 | :--- |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
+| [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 
