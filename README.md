@@ -4,6 +4,7 @@
 
 | Problem Folder |
 | :--- |
+| [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
@@ -88,6 +89,13 @@
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 
 
+## Heap (Priority Queue)
+
+| Problem Folder |
+| :--- |
+| [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
+
+
 ## Linked List
 
 | Problem Folder |
@@ -115,6 +123,7 @@
 
 | Problem Folder |
 | :--- |
+| [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
