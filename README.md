@@ -151,6 +151,7 @@
 
 | Problem Folder |
 | :--- |
+| [125-valid-palindrome](./125-valid-palindrome) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [3805-maximize-active-section-with-trade-i](./3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
@@ -180,5 +181,6 @@
 
 | Problem Folder |
 | :--- |
+| [125-valid-palindrome](./125-valid-palindrome) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
 
