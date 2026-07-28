@@ -56,6 +56,13 @@
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 
 
+## Counting Sort
+
+| Problem Folder |
+| :--- |
+| [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
+
+
 ## Depth-First Search
 
 | Problem Folder |
@@ -127,6 +134,7 @@
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
+| [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
@@ -145,6 +153,7 @@
 | :--- |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [3805-maximize-active-section-with-trade-i](./3805-maximize-active-section-with-trade-i) |
+| [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
 | [812-rotate-string](./812-rotate-string) |
 
 
