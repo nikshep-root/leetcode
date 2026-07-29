@@ -9,6 +9,7 @@
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
+| [54-spiral-matrix](./54-spiral-matrix) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
 
@@ -119,11 +120,25 @@
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 
 
+## Matrix
+
+| Problem Folder |
+| :--- |
+| [54-spiral-matrix](./54-spiral-matrix) |
+
+
 ## Prefix Sum
 
 | Problem Folder |
 | :--- |
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
+
+
+## Simulation
+
+| Problem Folder |
+| :--- |
+| [54-spiral-matrix](./54-spiral-matrix) |
 
 
 ## Sorting
