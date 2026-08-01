@@ -182,6 +182,7 @@
 | Problem Folder |
 | :--- |
 | [114-flatten-binary-tree-to-linked-list](./114-flatten-binary-tree-to-linked-list) |
+| [20-valid-parentheses](./20-valid-parentheses) |
 
 
 ## String
@@ -190,6 +191,7 @@
 | :--- |
 | [125-valid-palindrome](./125-valid-palindrome) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
+| [20-valid-parentheses](./20-valid-parentheses) |
 | [3805-maximize-active-section-with-trade-i](./3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
 | [812-rotate-string](./812-rotate-string) |
