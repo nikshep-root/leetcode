@@ -22,6 +22,13 @@
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 
 
+## Binary Search Tree
+
+| Problem Folder |
+| :--- |
+| [98-validate-binary-search-tree](./98-validate-binary-search-tree) |
+
+
 ## Binary Tree
 
 | Problem Folder |
@@ -33,6 +40,7 @@
 | [129-sum-root-to-leaf-numbers](./129-sum-root-to-leaf-numbers) |
 | [226-invert-binary-tree](./226-invert-binary-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
+| [98-validate-binary-search-tree](./98-validate-binary-search-tree) |
 
 
 ## Bit Manipulation
@@ -77,6 +85,7 @@
 | [129-sum-root-to-leaf-numbers](./129-sum-root-to-leaf-numbers) |
 | [226-invert-binary-tree](./226-invert-binary-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
+| [98-validate-binary-search-tree](./98-validate-binary-search-tree) |
 
 
 ## Enumeration
@@ -202,6 +211,7 @@
 | [129-sum-root-to-leaf-numbers](./129-sum-root-to-leaf-numbers) |
 | [226-invert-binary-tree](./226-invert-binary-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
+| [98-validate-binary-search-tree](./98-validate-binary-search-tree) |
 
 
 ## Two Pointers
