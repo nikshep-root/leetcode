@@ -121,6 +121,7 @@
 | Problem Folder |
 | :--- |
 | [114-flatten-binary-tree-to-linked-list](./114-flatten-binary-tree-to-linked-list) |
+| [206-reverse-linked-list](./206-reverse-linked-list) |
 | [21-merge-two-sorted-lists](./21-merge-two-sorted-lists) |
 
 
@@ -151,6 +152,7 @@
 
 | Problem Folder |
 | :--- |
+| [206-reverse-linked-list](./206-reverse-linked-list) |
 | [21-merge-two-sorted-lists](./21-merge-two-sorted-lists) |
 
 
