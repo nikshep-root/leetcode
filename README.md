@@ -85,6 +85,7 @@
 | [184-department-highest-salary](./184-department-highest-salary) |
 | [1908-recyclable-and-low-fat-products](./1908-recyclable-and-low-fat-products) |
 | [196-delete-duplicate-emails](./196-delete-duplicate-emails) |
+| [570-managers-with-at-least-5-direct-reports](./570-managers-with-at-least-5-direct-reports) |
 | [586-customer-placing-the-largest-number-of-orders](./586-customer-placing-the-largest-number-of-orders) |
 | [607-sales-person](./607-sales-person) |
 
