@@ -74,6 +74,13 @@
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
 
 
+## Database
+
+| Problem Folder |
+| :--- |
+| [1908-recyclable-and-low-fat-products](./1908-recyclable-and-low-fat-products) |
+
+
 ## Depth-First Search
 
 | Problem Folder |
