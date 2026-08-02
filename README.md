@@ -79,6 +79,7 @@
 | Problem Folder |
 | :--- |
 | [176-second-highest-salary](./176-second-highest-salary) |
+| [178-rank-scores](./178-rank-scores) |
 | [181-employees-earning-more-than-their-managers](./181-employees-earning-more-than-their-managers) |
 | [182-duplicate-emails](./182-duplicate-emails) |
 | [183-customers-who-never-order](./183-customers-who-never-order) |
