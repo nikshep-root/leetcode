@@ -73,6 +73,7 @@
 | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 | [112-path-sum](./112-path-sum) |
 | [226-invert-binary-tree](./226-invert-binary-tree) |
+| [547-number-of-provinces](./547-number-of-provinces) |
 
 
 ## Counting
@@ -117,6 +118,7 @@
 | [129-sum-root-to-leaf-numbers](./129-sum-root-to-leaf-numbers) |
 | [226-invert-binary-tree](./226-invert-binary-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
+| [547-number-of-provinces](./547-number-of-provinces) |
 | [98-validate-binary-search-tree](./98-validate-binary-search-tree) |
 
 
@@ -139,6 +141,13 @@
 | Problem Folder |
 | :--- |
 | [909-stone-game](./909-stone-game) |
+
+
+## Graph Theory
+
+| Problem Folder |
+| :--- |
+| [547-number-of-provinces](./547-number-of-provinces) |
 
 
 ## Greedy
@@ -285,6 +294,13 @@
 | :--- |
 | [125-valid-palindrome](./125-valid-palindrome) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
+
+
+## Union-Find
+
+| Problem Folder |
+| :--- |
+| [547-number-of-provinces](./547-number-of-provinces) |
 
 
 ## Zero-Sum Game
