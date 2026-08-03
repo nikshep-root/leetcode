@@ -11,7 +11,15 @@
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
+| [909-stone-game](./909-stone-game) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
+
+
+## Binary Lifting
+
+| Problem Folder |
+| :--- |
+| [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 
 
 ## Binary Search
@@ -48,6 +56,13 @@
 | Problem Folder |
 | :--- |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
+
+
+## Bracket Sequences
+
+| Problem Folder |
+| :--- |
+| [20-valid-parentheses](./20-valid-parentheses) |
 
 
 ## Breadth-First Search
@@ -105,11 +120,25 @@
 | [98-validate-binary-search-tree](./98-validate-binary-search-tree) |
 
 
+## Dynamic Programming
+
+| Problem Folder |
+| :--- |
+| [909-stone-game](./909-stone-game) |
+
+
 ## Enumeration
 
 | Problem Folder |
 | :--- |
 | [3805-maximize-active-section-with-trade-i](./3805-maximize-active-section-with-trade-i) |
+
+
+## Game Theory
+
+| Problem Folder |
+| :--- |
+| [909-stone-game](./909-stone-game) |
 
 
 ## Greedy
@@ -142,6 +171,13 @@
 | [21-merge-two-sorted-lists](./21-merge-two-sorted-lists) |
 
 
+## Lowest Common Ancestor
+
+| Problem Folder |
+| :--- |
+| [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
+
+
 ## Math
 
 | Problem Folder |
@@ -149,6 +185,7 @@
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
+| [909-stone-game](./909-stone-game) |
 
 
 ## Matrix
@@ -156,6 +193,13 @@
 | Problem Folder |
 | :--- |
 | [54-spiral-matrix](./54-spiral-matrix) |
+
+
+## Minimax
+
+| Problem Folder |
+| :--- |
+| [909-stone-game](./909-stone-game) |
 
 
 ## Prefix Sum
@@ -241,4 +285,11 @@
 | :--- |
 | [125-valid-palindrome](./125-valid-palindrome) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
+
+
+## Zero-Sum Game
+
+| Problem Folder |
+| :--- |
+| [909-stone-game](./909-stone-game) |
 
