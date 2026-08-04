@@ -299,6 +299,13 @@
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
 
 
+## Uncategorized
+
+| Problem Folder |
+| :--- |
+| [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
+
+
 ## Union-Find
 
 | Problem Folder |
