@@ -9,6 +9,7 @@
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
+| [4107-find-missing-elements](./4107-find-missing-elements) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 | [909-stone-game](./909-stone-game) |
@@ -162,6 +163,7 @@
 | Problem Folder |
 | :--- |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
+| [4107-find-missing-elements](./4107-find-missing-elements) |
 
 
 ## Heap (Priority Queue)
@@ -243,6 +245,7 @@
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
+| [4107-find-missing-elements](./4107-find-missing-elements) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
 
