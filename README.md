@@ -4,6 +4,7 @@
 
 | Problem Folder |
 | :--- |
+| [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
@@ -134,6 +135,7 @@
 
 | Problem Folder |
 | :--- |
+| [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | [3805-maximize-active-section-with-trade-i](./3805-maximize-active-section-with-trade-i) |
 
 
@@ -162,6 +164,7 @@
 
 | Problem Folder |
 | :--- |
+| [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
 
@@ -193,6 +196,7 @@
 
 | Problem Folder |
 | :--- |
+| [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
@@ -310,6 +314,7 @@
 
 | Problem Folder |
 | :--- |
+| [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | [547-number-of-provinces](./547-number-of-provinces) |
 
 
