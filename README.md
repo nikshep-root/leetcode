@@ -7,6 +7,7 @@
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
+| [200-number-of-islands](./200-number-of-islands) |
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
@@ -74,6 +75,7 @@
 | [101-symmetric-tree](./101-symmetric-tree) |
 | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 | [112-path-sum](./112-path-sum) |
+| [200-number-of-islands](./200-number-of-islands) |
 | [226-invert-binary-tree](./226-invert-binary-tree) |
 | [547-number-of-provinces](./547-number-of-provinces) |
 
@@ -118,6 +120,7 @@
 | [112-path-sum](./112-path-sum) |
 | [114-flatten-binary-tree-to-linked-list](./114-flatten-binary-tree-to-linked-list) |
 | [129-sum-root-to-leaf-numbers](./129-sum-root-to-leaf-numbers) |
+| [200-number-of-islands](./200-number-of-islands) |
 | [226-invert-binary-tree](./226-invert-binary-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 | [547-number-of-provinces](./547-number-of-provinces) |
@@ -207,6 +210,7 @@
 
 | Problem Folder |
 | :--- |
+| [200-number-of-islands](./200-number-of-islands) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 
 
@@ -315,6 +319,7 @@
 | Problem Folder |
 | :--- |
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
+| [200-number-of-islands](./200-number-of-islands) |
 | [547-number-of-provinces](./547-number-of-provinces) |
 
 
