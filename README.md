@@ -5,6 +5,7 @@
 | Problem Folder |
 | :--- |
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
+| [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [200-number-of-islands](./200-number-of-islands) |
@@ -163,6 +164,7 @@
 
 | Problem Folder |
 | :--- |
+| [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [561-array-partition](./561-array-partition) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
@@ -173,6 +175,7 @@
 | Problem Folder |
 | :--- |
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
+| [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
 
@@ -181,6 +184,7 @@
 
 | Problem Folder |
 | :--- |
+| [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
 
 
@@ -252,6 +256,7 @@
 
 | Problem Folder |
 | :--- |
+| [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
