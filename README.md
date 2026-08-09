@@ -15,6 +15,7 @@
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 | [909-stone-game](./909-stone-game) |
+| [917-boats-to-save-people](./917-boats-to-save-people) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
 
 
@@ -161,6 +162,7 @@
 | Problem Folder |
 | :--- |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
+| [917-boats-to-save-people](./917-boats-to-save-people) |
 
 
 ## Hash Table
@@ -255,6 +257,7 @@
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
+| [917-boats-to-save-people](./917-boats-to-save-people) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
 
 
@@ -285,6 +288,13 @@
 | [812-rotate-string](./812-rotate-string) |
 
 
+## Timsort
+
+| Problem Folder |
+| :--- |
+| [917-boats-to-save-people](./917-boats-to-save-people) |
+
+
 ## Tree
 
 | Problem Folder |
@@ -304,6 +314,7 @@
 | Problem Folder |
 | :--- |
 | [125-valid-palindrome](./125-valid-palindrome) |
+| [917-boats-to-save-people](./917-boats-to-save-people) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
 
 
