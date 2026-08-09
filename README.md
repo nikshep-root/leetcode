@@ -13,6 +13,7 @@
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
 | [54-spiral-matrix](./54-spiral-matrix) |
+| [561-array-partition](./561-array-partition) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 | [909-stone-game](./909-stone-game) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
@@ -93,6 +94,7 @@
 | Problem Folder |
 | :--- |
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
+| [561-array-partition](./561-array-partition) |
 
 
 ## Database
@@ -162,6 +164,7 @@
 | Problem Folder |
 | :--- |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
+| [561-array-partition](./561-array-partition) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 
 
@@ -256,6 +259,7 @@
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
+| [561-array-partition](./561-array-partition) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
