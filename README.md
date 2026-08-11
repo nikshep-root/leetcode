@@ -11,6 +11,7 @@
 | [200-number-of-islands](./200-number-of-islands) |
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
 | [54-spiral-matrix](./54-spiral-matrix) |
@@ -177,6 +178,7 @@
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
 
 
@@ -261,6 +263,7 @@
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
