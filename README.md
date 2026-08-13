@@ -4,6 +4,7 @@
 
 | Problem Folder |
 | :--- |
+| [11-container-with-most-water](./11-container-with-most-water) |
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
@@ -165,6 +166,7 @@
 
 | Problem Folder |
 | :--- |
+| [11-container-with-most-water](./11-container-with-most-water) |
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [561-array-partition](./561-array-partition) |
@@ -178,6 +180,7 @@
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
+| [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
 
@@ -254,6 +257,13 @@
 | [54-spiral-matrix](./54-spiral-matrix) |
 
 
+## Sliding Window
+
+| Problem Folder |
+| :--- |
+| [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
+
+
 ## Sorting
 
 | Problem Folder |
@@ -288,6 +298,7 @@
 | [125-valid-palindrome](./125-valid-palindrome) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [20-valid-parentheses](./20-valid-parentheses) |
+| [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
 | [3805-maximize-active-section-with-trade-i](./3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
 | [812-rotate-string](./812-rotate-string) |
@@ -325,6 +336,7 @@
 
 | Problem Folder |
 | :--- |
+| [11-container-with-most-water](./11-container-with-most-water) |
 | [125-valid-palindrome](./125-valid-palindrome) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
