@@ -12,6 +12,7 @@
 | [200-number-of-islands](./200-number-of-islands) |
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
@@ -181,6 +182,7 @@
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
@@ -263,6 +265,7 @@
 | Problem Folder |
 | :--- |
 | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 
 
