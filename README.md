@@ -182,6 +182,7 @@
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
 
 
@@ -262,6 +263,7 @@
 | Problem Folder |
 | :--- |
 | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
+| [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 
 
 ## Sorting
@@ -299,6 +301,7 @@
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [20-valid-parentheses](./20-valid-parentheses) |
 | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
+| [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 | [3805-maximize-active-section-with-trade-i](./3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
 | [812-rotate-string](./812-rotate-string) |
