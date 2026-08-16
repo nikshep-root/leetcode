@@ -354,6 +354,7 @@
 | :--- |
 | [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
+| [4384-elevator-requests-i](./4384-elevator-requests-i) |
 
 
 ## Union-Find
