@@ -6,6 +6,7 @@
 | :--- |
 | [11-container-with-most-water](./11-container-with-most-water) |
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](./1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
@@ -264,6 +265,7 @@
 
 | Problem Folder |
 | :--- |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](./1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
