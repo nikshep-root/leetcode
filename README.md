@@ -21,6 +21,7 @@
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [561-array-partition](./561-array-partition) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
+| [643-maximum-average-subarray-i](./643-maximum-average-subarray-i) |
 | [909-stone-game](./909-stone-game) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
@@ -271,6 +272,7 @@
 | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
+| [643-maximum-average-subarray-i](./643-maximum-average-subarray-i) |
 
 
 ## Sorting
