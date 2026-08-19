@@ -3,6 +3,7 @@ class Solution {
         int left = 0;
         int sum = 0;
         int count = 0;
+        int targetSum = k*threshold;
         for(int right = 0;right < arr.length;right++){
             sum += arr[right];
             if(right-left+1 > k){
@@ -10,7 +11,7 @@ class Solution {
                 left++;
             }
             if(right-left+1 == k){
-                if((sum/k) >= threshold){
+                if(sum >= targetSum){
                     count++;
                 }
             }
