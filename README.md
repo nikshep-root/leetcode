@@ -27,6 +27,7 @@
 | [643-maximum-average-subarray-i](./643-maximum-average-subarray-i) |
 | [909-stone-game](./909-stone-game) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
+| [940-fruit-into-baskets](./940-fruit-into-baskets) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
 
 
@@ -197,6 +198,7 @@
 | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 | [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
+| [940-fruit-into-baskets](./940-fruit-into-baskets) |
 
 
 ## Heap (Priority Queue)
@@ -285,6 +287,7 @@
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 | [643-maximum-average-subarray-i](./643-maximum-average-subarray-i) |
+| [940-fruit-into-baskets](./940-fruit-into-baskets) |
 
 
 ## Sorting
