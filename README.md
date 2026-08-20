@@ -13,6 +13,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [200-number-of-islands](./200-number-of-islands) |
+| [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](./2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
@@ -56,6 +57,7 @@
 | :--- |
 | [1046-max-consecutive-ones-iii](./1046-max-consecutive-ones-iii) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
+| [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 
 
@@ -285,6 +287,7 @@
 | :--- |
 | [1046-max-consecutive-ones-iii](./1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](./1538-maximum-points-you-can-obtain-from-cards) |
+| [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
 | [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
 
@@ -321,6 +324,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](./1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](./1538-maximum-points-you-can-obtain-from-cards) |
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
+| [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](./2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2954-maximum-sum-of-almost-unique-subarray](./2954-maximum-sum-of-almost-unique-subarray) |
 | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
