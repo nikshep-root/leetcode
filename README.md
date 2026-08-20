@@ -14,6 +14,7 @@
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
+| [2338-minimum-consecutive-cards-to-pick-up](./2338-minimum-consecutive-cards-to-pick-up) |
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](./2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
@@ -213,6 +214,7 @@
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
+| [2338-minimum-consecutive-cards-to-pick-up](./2338-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](./2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2954-maximum-sum-of-almost-unique-subarray](./2954-maximum-sum-of-almost-unique-subarray) |
 | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
@@ -325,6 +327,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](./1538-maximum-points-you-can-obtain-from-cards) |
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
+| [2338-minimum-consecutive-cards-to-pick-up](./2338-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](./2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2954-maximum-sum-of-almost-unique-subarray](./2954-maximum-sum-of-almost-unique-subarray) |
 | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
