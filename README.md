@@ -4,6 +4,7 @@
 
 | Problem Folder |
 | :--- |
+| [1046-max-consecutive-ones-iii](./1046-max-consecutive-ones-iii) |
 | [11-container-with-most-water](./11-container-with-most-water) |
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](./1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -53,6 +54,7 @@
 
 | Problem Folder |
 | :--- |
+| [1046-max-consecutive-ones-iii](./1046-max-consecutive-ones-iii) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 
@@ -281,6 +283,7 @@
 
 | Problem Folder |
 | :--- |
+| [1046-max-consecutive-ones-iii](./1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](./1538-maximum-points-you-can-obtain-from-cards) |
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
 | [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
@@ -314,6 +317,7 @@
 
 | Problem Folder |
 | :--- |
+| [1046-max-consecutive-ones-iii](./1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](./1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](./1538-maximum-points-you-can-obtain-from-cards) |
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
