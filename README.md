@@ -18,9 +18,13 @@
 | [2954-maximum-sum-of-almost-unique-subarray](./2954-maximum-sum-of-almost-unique-subarray) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
+| [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
+| [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
+| [4384-elevator-requests-i](./4384-elevator-requests-i) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [561-array-partition](./561-array-partition) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
@@ -29,6 +33,13 @@
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 | [940-fruit-into-baskets](./940-fruit-into-baskets) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
+
+
+## Binary Indexed Tree
+
+| Problem Folder |
+| :--- |
+| [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
 
 
 ## Binary Lifting
@@ -142,6 +153,13 @@
 | [98-validate-binary-search-tree](./98-validate-binary-search-tree) |
 
 
+## Divide and Conquer
+
+| Problem Folder |
+| :--- |
+| [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
+
+
 ## Dynamic Programming
 
 | Problem Folder |
@@ -178,6 +196,7 @@
 | [11-container-with-most-water](./11-container-with-most-water) |
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
+| [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [561-array-partition](./561-array-partition) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 
@@ -244,6 +263,13 @@
 | [54-spiral-matrix](./54-spiral-matrix) |
 
 
+## Merge Sort
+
+| Problem Folder |
+| :--- |
+| [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
+
+
 ## Minimax
 
 | Problem Folder |
@@ -257,6 +283,7 @@
 | :--- |
 | [1538-maximum-points-you-can-obtain-from-cards](./1538-maximum-points-you-can-obtain-from-cards) |
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
+| [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
 
 
 ## Recursion
@@ -267,10 +294,19 @@
 | [21-merge-two-sorted-lists](./21-merge-two-sorted-lists) |
 
 
+## Segment Tree
+
+| Problem Folder |
+| :--- |
+| [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
+
+
 ## Simulation
 
 | Problem Folder |
 | :--- |
+| [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
+| [4384-elevator-requests-i](./4384-elevator-requests-i) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 
 
@@ -303,6 +339,7 @@
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
+| [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [561-array-partition](./561-array-partition) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
@@ -366,17 +403,9 @@
 | :--- |
 | [11-container-with-most-water](./11-container-with-most-water) |
 | [125-valid-palindrome](./125-valid-palindrome) |
+| [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
-
-
-## Uncategorized
-
-| Problem Folder |
-| :--- |
-| [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
-| [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
-| [4384-elevator-requests-i](./4384-elevator-requests-i) |
 
 
 ## Union-Find
