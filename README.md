@@ -4,6 +4,7 @@
 
 | Problem Folder |
 | :--- |
+| [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](./1046-max-consecutive-ones-iii) |
 | [11-container-with-most-water](./11-container-with-most-water) |
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
@@ -341,6 +342,7 @@
 
 | Problem Folder |
 | :--- |
+| [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
@@ -412,6 +414,7 @@
 
 | Problem Folder |
 | :--- |
+| [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | [11-container-with-most-water](./11-container-with-most-water) |
 | [125-valid-palindrome](./125-valid-palindrome) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
