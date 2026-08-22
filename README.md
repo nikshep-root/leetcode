@@ -258,6 +258,7 @@
 | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
+| [3918-check-divisibility-by-digit-sum-and-product](./3918-check-divisibility-by-digit-sum-and-product) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 | [909-stone-game](./909-stone-game) |
 
