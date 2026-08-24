@@ -13,6 +13,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](./1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
+| [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | [2338-minimum-consecutive-cards-to-pick-up](./2338-minimum-consecutive-cards-to-pick-up) |
@@ -59,6 +60,7 @@
 | :--- |
 | [1046-max-consecutive-ones-iii](./1046-max-consecutive-ones-iii) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
+| [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 
@@ -213,6 +215,7 @@
 | :--- |
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
+| [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
 | [2338-minimum-consecutive-cards-to-pick-up](./2338-minimum-consecutive-cards-to-pick-up) |
@@ -291,6 +294,7 @@
 | :--- |
 | [1046-max-consecutive-ones-iii](./1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](./1538-maximum-points-you-can-obtain-from-cards) |
+| [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
 | [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
@@ -327,6 +331,7 @@
 | [1046-max-consecutive-ones-iii](./1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](./1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](./1538-maximum-points-you-can-obtain-from-cards) |
+| [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | [2338-minimum-consecutive-cards-to-pick-up](./2338-minimum-consecutive-cards-to-pick-up) |
