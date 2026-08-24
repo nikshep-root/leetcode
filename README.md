@@ -336,6 +336,7 @@
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | [2338-minimum-consecutive-cards-to-pick-up](./2338-minimum-consecutive-cards-to-pick-up) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](./2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2786-find-the-longest-semi-repetitive-substring](./2786-find-the-longest-semi-repetitive-substring) |
 | [2954-maximum-sum-of-almost-unique-subarray](./2954-maximum-sum-of-almost-unique-subarray) |
 | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -381,6 +382,7 @@
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
 | [20-valid-parentheses](./20-valid-parentheses) |
+| [2786-find-the-longest-semi-repetitive-substring](./2786-find-the-longest-semi-repetitive-substring) |
 | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
 | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 | [3805-maximize-active-section-with-trade-i](./3805-maximize-active-section-with-trade-i) |
