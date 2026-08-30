@@ -17,6 +17,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
+| [2212-removing-minimum-and-maximum-from-array](./2212-removing-minimum-and-maximum-from-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](./2338-minimum-consecutive-cards-to-pick-up) |
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](./2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -205,6 +206,7 @@
 | :--- |
 | [11-container-with-most-water](./11-container-with-most-water) |
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
+| [2212-removing-minimum-and-maximum-from-array](./2212-removing-minimum-and-maximum-from-array) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [561-array-partition](./561-array-partition) |
