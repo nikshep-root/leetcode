@@ -250,6 +250,7 @@
 | [114-flatten-binary-tree-to-linked-list](./114-flatten-binary-tree-to-linked-list) |
 | [206-reverse-linked-list](./206-reverse-linked-list) |
 | [21-merge-two-sorted-lists](./21-merge-two-sorted-lists) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](./2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 
 
 ## Lowest Common Ancestor
