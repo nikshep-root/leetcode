@@ -33,6 +33,7 @@
 | [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [4384-elevator-requests-i](./4384-elevator-requests-i) |
+| [496-next-greater-element-i](./496-next-greater-element-i) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [561-array-partition](./561-array-partition) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
@@ -232,6 +233,7 @@
 | [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer) |
 | [4080-smallest-missing-multiple-of-k](./4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
+| [496-next-greater-element-i](./496-next-greater-element-i) |
 | [940-fruit-into-baskets](./940-fruit-into-baskets) |
 
 
@@ -293,6 +295,13 @@
 | Problem Folder |
 | :--- |
 | [909-stone-game](./909-stone-game) |
+
+
+## Monotonic Stack
+
+| Problem Folder |
+| :--- |
+| [496-next-greater-element-i](./496-next-greater-element-i) |
 
 
 ## Prefix Sum
@@ -380,6 +389,7 @@
 | :--- |
 | [114-flatten-binary-tree-to-linked-list](./114-flatten-binary-tree-to-linked-list) |
 | [20-valid-parentheses](./20-valid-parentheses) |
+| [496-next-greater-element-i](./496-next-greater-element-i) |
 
 
 ## String
