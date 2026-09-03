@@ -31,6 +31,7 @@
 | [4080-smallest-missing-multiple-of-k](./4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
 | [4256-construct-uniform-parity-array-i](./4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](./4258-construct-uniform-parity-array-ii) |
 | [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [4384-elevator-requests-i](./4384-elevator-requests-i) |
@@ -272,6 +273,7 @@
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
 | [3918-check-divisibility-by-digit-sum-and-product](./3918-check-divisibility-by-digit-sum-and-product) |
 | [4256-construct-uniform-parity-array-i](./4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](./4258-construct-uniform-parity-array-ii) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 | [7-reverse-integer](./7-reverse-integer) |
 | [909-stone-game](./909-stone-game) |
