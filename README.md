@@ -33,6 +33,7 @@
 | [4256-construct-uniform-parity-array-i](./4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](./4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](./4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](./4285-smallest-stable-index-ii) |
 | [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [4384-elevator-requests-i](./4384-elevator-requests-i) |
@@ -319,6 +320,7 @@
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
 | [4284-smallest-stable-index-i](./4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](./4285-smallest-stable-index-ii) |
 | [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
 
 
