@@ -8,6 +8,7 @@
 | [1046-max-consecutive-ones-iii](./1046-max-consecutive-ones-iii) |
 | [11-container-with-most-water](./11-container-with-most-water) |
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
+| [130-surrounded-regions](./130-surrounded-regions) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](./1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [1538-maximum-points-you-can-obtain-from-cards](./1538-maximum-points-you-can-obtain-from-cards) |
@@ -115,6 +116,7 @@
 | [101-symmetric-tree](./101-symmetric-tree) |
 | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 | [112-path-sum](./112-path-sum) |
+| [130-surrounded-regions](./130-surrounded-regions) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [226-invert-binary-tree](./226-invert-binary-tree) |
 | [547-number-of-provinces](./547-number-of-provinces) |
@@ -162,6 +164,7 @@
 | [112-path-sum](./112-path-sum) |
 | [114-flatten-binary-tree-to-linked-list](./114-flatten-binary-tree-to-linked-list) |
 | [129-sum-root-to-leaf-numbers](./129-sum-root-to-leaf-numbers) |
+| [130-surrounded-regions](./130-surrounded-regions) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [226-invert-binary-tree](./226-invert-binary-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
@@ -285,6 +288,7 @@
 
 | Problem Folder |
 | :--- |
+| [130-surrounded-regions](./130-surrounded-regions) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 
@@ -462,6 +466,7 @@
 | Problem Folder |
 | :--- |
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
+| [130-surrounded-regions](./130-surrounded-regions) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [547-number-of-provinces](./547-number-of-provinces) |
 
