@@ -466,6 +466,7 @@
 | Problem Folder |
 | :--- |
 | [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](./4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+| [4412-count-good-cyclic-rotations](./4412-count-good-cyclic-rotations) |
 
 
 ## Union-Find
