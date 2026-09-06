@@ -461,6 +461,13 @@
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
 
 
+## Uncategorized
+
+| Problem Folder |
+| :--- |
+| [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](./4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+
+
 ## Union-Find
 
 | Problem Folder |
