@@ -109,6 +109,13 @@
 | [20-valid-parentheses](./20-valid-parentheses) |
 
 
+## Brainteaser
+
+| Problem Folder |
+| :--- |
+| [292-nim-game](./292-nim-game) |
+
+
 ## Breadth-First Search
 
 | Problem Folder |
@@ -198,6 +205,7 @@
 
 | Problem Folder |
 | :--- |
+| [292-nim-game](./292-nim-game) |
 | [909-stone-game](./909-stone-game) |
 
 
@@ -252,6 +260,13 @@
 | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
 
 
+## Impartial Game
+
+| Problem Folder |
+| :--- |
+| [292-nim-game](./292-nim-game) |
+
+
 ## Linked List
 
 | Problem Folder |
@@ -273,6 +288,7 @@
 
 | Problem Folder |
 | :--- |
+| [292-nim-game](./292-nim-game) |
 | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
@@ -304,6 +320,7 @@
 
 | Problem Folder |
 | :--- |
+| [292-nim-game](./292-nim-game) |
 | [909-stone-game](./909-stone-game) |
 
 
@@ -312,6 +329,13 @@
 | Problem Folder |
 | :--- |
 | [496-next-greater-element-i](./496-next-greater-element-i) |
+
+
+## Nim Game
+
+| Problem Folder |
+| :--- |
+| [292-nim-game](./292-nim-game) |
 
 
 ## Prefix Sum
