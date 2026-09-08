@@ -137,6 +137,7 @@
 | [226-invert-binary-tree](./226-invert-binary-tree) |
 | [547-number-of-provinces](./547-number-of-provinces) |
 | [801-is-graph-bipartite](./801-is-graph-bipartite) |
+| [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 
 
 ## Counting
@@ -188,6 +189,7 @@
 | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 | [547-number-of-provinces](./547-number-of-provinces) |
 | [801-is-graph-bipartite](./801-is-graph-bipartite) |
+| [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 | [98-validate-binary-search-tree](./98-validate-binary-search-tree) |
 
 
@@ -234,6 +236,7 @@
 | :--- |
 | [547-number-of-provinces](./547-number-of-provinces) |
 | [801-is-graph-bipartite](./801-is-graph-bipartite) |
+| [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 
 
 ## Greedy
@@ -285,6 +288,13 @@
 | Problem Folder |
 | :--- |
 | [292-nim-game](./292-nim-game) |
+
+
+## Kosaraju's Algorithm
+
+| Problem Folder |
+| :--- |
+| [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 
 
 ## Linked List
@@ -474,11 +484,25 @@
 | [812-rotate-string](./812-rotate-string) |
 
 
+## Tarjan's SCC Algorithm
+
+| Problem Folder |
+| :--- |
+| [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
+
+
 ## Timsort
 
 | Problem Folder |
 | :--- |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
+
+
+## Topological Sort
+
+| Problem Folder |
+| :--- |
+| [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 
 
 ## Tree
