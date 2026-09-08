@@ -6,6 +6,7 @@
 | :--- |
 | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](./1046-max-consecutive-ones-iii) |
+| [1073-number-of-enclaves](./1073-number-of-enclaves) |
 | [11-container-with-most-water](./11-container-with-most-water) |
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | [130-surrounded-regions](./130-surrounded-regions) |
@@ -122,6 +123,7 @@
 | :--- |
 | [101-symmetric-tree](./101-symmetric-tree) |
 | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
+| [1073-number-of-enclaves](./1073-number-of-enclaves) |
 | [112-path-sum](./112-path-sum) |
 | [130-surrounded-regions](./130-surrounded-regions) |
 | [200-number-of-islands](./200-number-of-islands) |
@@ -168,6 +170,7 @@
 | :--- |
 | [101-symmetric-tree](./101-symmetric-tree) |
 | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
+| [1073-number-of-enclaves](./1073-number-of-enclaves) |
 | [112-path-sum](./112-path-sum) |
 | [114-flatten-binary-tree-to-linked-list](./114-flatten-binary-tree-to-linked-list) |
 | [129-sum-root-to-leaf-numbers](./129-sum-root-to-leaf-numbers) |
@@ -293,6 +296,7 @@
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
 | [3918-check-divisibility-by-digit-sum-and-product](./3918-check-divisibility-by-digit-sum-and-product) |
+| [4245-count-commas-in-range](./4245-count-commas-in-range) |
 | [4256-construct-uniform-parity-array-i](./4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](./4258-construct-uniform-parity-array-ii) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
@@ -304,6 +308,7 @@
 
 | Problem Folder |
 | :--- |
+| [1073-number-of-enclaves](./1073-number-of-enclaves) |
 | [130-surrounded-regions](./130-surrounded-regions) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [54-spiral-matrix](./54-spiral-matrix) |
@@ -497,6 +502,7 @@
 
 | Problem Folder |
 | :--- |
+| [1073-number-of-enclaves](./1073-number-of-enclaves) |
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | [130-surrounded-regions](./130-surrounded-regions) |
 | [200-number-of-islands](./200-number-of-islands) |
