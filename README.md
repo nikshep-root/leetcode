@@ -96,6 +96,13 @@
 | [98-validate-binary-search-tree](./98-validate-binary-search-tree) |
 
 
+## Bipartite Graph
+
+| Problem Folder |
+| :--- |
+| [801-is-graph-bipartite](./801-is-graph-bipartite) |
+
+
 ## Bit Manipulation
 
 | Problem Folder |
@@ -129,6 +136,7 @@
 | [200-number-of-islands](./200-number-of-islands) |
 | [226-invert-binary-tree](./226-invert-binary-tree) |
 | [547-number-of-provinces](./547-number-of-provinces) |
+| [801-is-graph-bipartite](./801-is-graph-bipartite) |
 
 
 ## Counting
@@ -179,6 +187,7 @@
 | [226-invert-binary-tree](./226-invert-binary-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 | [547-number-of-provinces](./547-number-of-provinces) |
+| [801-is-graph-bipartite](./801-is-graph-bipartite) |
 | [98-validate-binary-search-tree](./98-validate-binary-search-tree) |
 
 
@@ -212,11 +221,19 @@
 | [909-stone-game](./909-stone-game) |
 
 
+## Graph Coloring
+
+| Problem Folder |
+| :--- |
+| [801-is-graph-bipartite](./801-is-graph-bipartite) |
+
+
 ## Graph Theory
 
 | Problem Folder |
 | :--- |
 | [547-number-of-provinces](./547-number-of-provinces) |
+| [801-is-graph-bipartite](./801-is-graph-bipartite) |
 
 
 ## Greedy
@@ -507,6 +524,7 @@
 | [130-surrounded-regions](./130-surrounded-regions) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [547-number-of-provinces](./547-number-of-provinces) |
+| [801-is-graph-bipartite](./801-is-graph-bipartite) |
 
 
 ## Zero-Sum Game
