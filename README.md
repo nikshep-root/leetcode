@@ -324,6 +324,7 @@
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
 | [3918-check-divisibility-by-digit-sum-and-product](./3918-check-divisibility-by-digit-sum-and-product) |
 | [4245-count-commas-in-range](./4245-count-commas-in-range) |
+| [4248-count-commas-in-range-ii](./4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](./4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](./4258-construct-uniform-parity-array-ii) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
