@@ -46,6 +46,7 @@
 | [643-maximum-average-subarray-i](./643-maximum-average-subarray-i) |
 | [909-stone-game](./909-stone-game) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
+| [932-monotonic-array](./932-monotonic-array) |
 | [940-fruit-into-baskets](./940-fruit-into-baskets) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
 
