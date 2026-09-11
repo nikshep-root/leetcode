@@ -29,6 +29,7 @@
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer) |
+| [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [4080-smallest-missing-multiple-of-k](./4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
@@ -213,6 +214,7 @@
 | Problem Folder |
 | :--- |
 | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
+| [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
 | [3805-maximize-active-section-with-trade-i](./3805-maximize-active-section-with-trade-i) |
 
 
@@ -270,6 +272,7 @@
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 | [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer) |
+| [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
 | [4080-smallest-missing-multiple-of-k](./4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
 | [496-next-greater-element-i](./496-next-greater-element-i) |
@@ -392,6 +395,7 @@
 | :--- |
 | [206-reverse-linked-list](./206-reverse-linked-list) |
 | [21-merge-two-sorted-lists](./21-merge-two-sorted-lists) |
+| [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
 
 
 ## Segment Tree
