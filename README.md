@@ -559,6 +559,7 @@
 | :--- |
 | [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](./4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [4412-count-good-cyclic-rotations](./4412-count-good-cyclic-rotations) |
+| [4415-count-values-with-equally-spaced-occurrences-i](./4415-count-values-with-equally-spaced-occurrences-i) |
 
 
 ## Union-Find
