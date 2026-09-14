@@ -237,6 +237,13 @@
 | [909-stone-game](./909-stone-game) |
 
 
+## Geometry
+
+| Problem Folder |
+| :--- |
+| [866-rectangle-overlap](./866-rectangle-overlap) |
+
+
 ## Graph Coloring
 
 | Problem Folder |
@@ -346,6 +353,7 @@
 | [4258-construct-uniform-parity-array-ii](./4258-construct-uniform-parity-array-ii) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 | [7-reverse-integer](./7-reverse-integer) |
+| [866-rectangle-overlap](./866-rectangle-overlap) |
 | [909-stone-game](./909-stone-game) |
 
 
