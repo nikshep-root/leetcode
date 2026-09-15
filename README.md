@@ -46,6 +46,7 @@
 | [561-array-partition](./561-array-partition) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 | [643-maximum-average-subarray-i](./643-maximum-average-subarray-i) |
+| [695-max-area-of-island](./695-max-area-of-island) |
 | [909-stone-game](./909-stone-game) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 | [932-monotonic-array](./932-monotonic-array) |
@@ -140,6 +141,7 @@
 | [207-course-schedule](./207-course-schedule) |
 | [226-invert-binary-tree](./226-invert-binary-tree) |
 | [547-number-of-provinces](./547-number-of-provinces) |
+| [695-max-area-of-island](./695-max-area-of-island) |
 | [801-is-graph-bipartite](./801-is-graph-bipartite) |
 | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 
@@ -193,6 +195,7 @@
 | [226-invert-binary-tree](./226-invert-binary-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 | [547-number-of-provinces](./547-number-of-provinces) |
+| [695-max-area-of-island](./695-max-area-of-island) |
 | [801-is-graph-bipartite](./801-is-graph-bipartite) |
 | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 | [98-validate-binary-search-tree](./98-validate-binary-search-tree) |
@@ -365,6 +368,7 @@
 | [130-surrounded-regions](./130-surrounded-regions) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [54-spiral-matrix](./54-spiral-matrix) |
+| [695-max-area-of-island](./695-max-area-of-island) |
 
 
 ## Merge Sort
@@ -579,6 +583,7 @@
 | [130-surrounded-regions](./130-surrounded-regions) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [547-number-of-provinces](./547-number-of-provinces) |
+| [695-max-area-of-island](./695-max-area-of-island) |
 | [801-is-graph-bipartite](./801-is-graph-bipartite) |
 
 
