@@ -41,6 +41,8 @@
 | [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [4384-elevator-requests-i](./4384-elevator-requests-i) |
+| [4412-count-good-cyclic-rotations](./4412-count-good-cyclic-rotations) |
+| [4415-count-values-with-equally-spaced-occurrences-i](./4415-count-values-with-equally-spaced-occurrences-i) |
 | [496-next-greater-element-i](./496-next-greater-element-i) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [561-array-partition](./561-array-partition) |
@@ -231,6 +233,7 @@
 | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
 | [3805-maximize-active-section-with-trade-i](./3805-maximize-active-section-with-trade-i) |
+| [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](./4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 
 
 ## Game Theory
@@ -300,6 +303,7 @@
 | [389-find-the-difference](./389-find-the-difference) |
 | [4080-smallest-missing-multiple-of-k](./4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
+| [4415-count-values-with-equally-spaced-occurrences-i](./4415-count-values-with-equally-spaced-occurrences-i) |
 | [496-next-greater-element-i](./496-next-greater-element-i) |
 | [940-fruit-into-baskets](./940-fruit-into-baskets) |
 
@@ -414,6 +418,7 @@
 | [4284-smallest-stable-index-i](./4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](./4285-smallest-stable-index-ii) |
 | [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
+| [4412-count-good-cyclic-rotations](./4412-count-good-cyclic-rotations) |
 
 
 ## Recursion
@@ -460,6 +465,8 @@
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](./3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
+| [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](./4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+| [4412-count-good-cyclic-rotations](./4412-count-good-cyclic-rotations) |
 | [643-maximum-average-subarray-i](./643-maximum-average-subarray-i) |
 | [940-fruit-into-baskets](./940-fruit-into-baskets) |
 
@@ -511,6 +518,7 @@
 | [3805-maximize-active-section-with-trade-i](./3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
 | [389-find-the-difference](./389-find-the-difference) |
+| [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](./4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [812-rotate-string](./812-rotate-string) |
 
 
@@ -564,18 +572,10 @@
 | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | [11-container-with-most-water](./11-container-with-most-water) |
 | [125-valid-palindrome](./125-valid-palindrome) |
+| [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
-
-
-## Uncategorized
-
-| Problem Folder |
-| :--- |
-| [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](./4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
-| [4412-count-good-cyclic-rotations](./4412-count-good-cyclic-rotations) |
-| [4415-count-values-with-equally-spaced-occurrences-i](./4415-count-values-with-equally-spaced-occurrences-i) |
 
 
 ## Union-Find
