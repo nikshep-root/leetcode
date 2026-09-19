@@ -157,6 +157,7 @@
 | [1187-print-foobar-alternately](./1187-print-foobar-alternately) |
 | [1203-print-in-order](./1203-print-in-order) |
 | [1216-print-zero-even-odd](./1216-print-zero-even-odd) |
+| [1316-fizz-buzz-multithreaded](./1316-fizz-buzz-multithreaded) |
 
 
 ## Counting
