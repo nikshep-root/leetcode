@@ -250,6 +250,7 @@
 
 | Problem Folder |
 | :--- |
+| [1501-circle-and-rectangle-overlapping](./1501-circle-and-rectangle-overlapping) |
 | [866-rectangle-overlap](./866-rectangle-overlap) |
 
 
@@ -354,6 +355,7 @@
 
 | Problem Folder |
 | :--- |
+| [1501-circle-and-rectangle-overlapping](./1501-circle-and-rectangle-overlapping) |
 | [292-nim-game](./292-nim-game) |
 | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
