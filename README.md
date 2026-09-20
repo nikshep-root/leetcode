@@ -458,6 +458,7 @@
 | Problem Folder |
 | :--- |
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
+| [3811-reverse-degree-of-a-string](./3811-reverse-degree-of-a-string) |
 | [4384-elevator-requests-i](./4384-elevator-requests-i) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 
@@ -531,6 +532,7 @@
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](./3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 | [3805-maximize-active-section-with-trade-i](./3805-maximize-active-section-with-trade-i) |
+| [3811-reverse-degree-of-a-string](./3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
 | [389-find-the-difference](./389-find-the-difference) |
 | [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](./4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
