@@ -49,6 +49,7 @@
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 | [643-maximum-average-subarray-i](./643-maximum-average-subarray-i) |
 | [695-max-area-of-island](./695-max-area-of-island) |
+| [748-largest-number-at-least-twice-of-others](./748-largest-number-at-least-twice-of-others) |
 | [909-stone-game](./909-stone-game) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 | [932-monotonic-array](./932-monotonic-array) |
@@ -506,6 +507,7 @@
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [561-array-partition](./561-array-partition) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
+| [748-largest-number-at-least-twice-of-others](./748-largest-number-at-least-twice-of-others) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
 
@@ -594,6 +596,13 @@
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
+
+
+## Uncategorized
+
+| Problem Folder |
+| :--- |
+| [4418-number-of-intersecting-interval-pairs-i](./4418-number-of-intersecting-interval-pairs-i) |
 
 
 ## Union-Find
