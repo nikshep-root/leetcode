@@ -55,6 +55,7 @@
 | [932-monotonic-array](./932-monotonic-array) |
 | [940-fruit-into-baskets](./940-fruit-into-baskets) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
+| [990-verifying-an-alien-dictionary](./990-verifying-an-alien-dictionary) |
 
 
 ## Binary Indexed Tree
@@ -321,6 +322,7 @@
 | [4415-count-values-with-equally-spaced-occurrences-i](./4415-count-values-with-equally-spaced-occurrences-i) |
 | [496-next-greater-element-i](./496-next-greater-element-i) |
 | [940-fruit-into-baskets](./940-fruit-into-baskets) |
+| [990-verifying-an-alien-dictionary](./990-verifying-an-alien-dictionary) |
 
 
 ## Heap (Priority Queue)
@@ -539,6 +541,7 @@
 | [389-find-the-difference](./389-find-the-difference) |
 | [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](./4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [812-rotate-string](./812-rotate-string) |
+| [990-verifying-an-alien-dictionary](./990-verifying-an-alien-dictionary) |
 
 
 ## String Matching
