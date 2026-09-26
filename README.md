@@ -17,6 +17,7 @@
 | [1580-shuffle-the-array](./1580-shuffle-the-array) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](./1934-evaluate-the-bracket-pairs-of-a-string) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | [2212-removing-minimum-and-maximum-from-array](./2212-removing-minimum-and-maximum-from-array) |
@@ -305,6 +306,7 @@
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](./1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
 | [2215-finding-3-digit-even-numbers](./2215-finding-3-digit-even-numbers) |
 | [2338-minimum-consecutive-cards-to-pick-up](./2338-minimum-consecutive-cards-to-pick-up) |
@@ -529,6 +531,7 @@
 | :--- |
 | [125-valid-palindrome](./125-valid-palindrome) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](./1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
 | [20-valid-parentheses](./20-valid-parentheses) |
 | [2786-find-the-longest-semi-repetitive-substring](./2786-find-the-longest-semi-repetitive-substring) |
