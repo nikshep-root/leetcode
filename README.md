@@ -126,6 +126,7 @@
 
 | Problem Folder |
 | :--- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [20-valid-parentheses](./20-valid-parentheses) |
 
 
@@ -537,6 +538,7 @@
 | Problem Folder |
 | :--- |
 | [114-flatten-binary-tree-to-linked-list](./114-flatten-binary-tree-to-linked-list) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [20-valid-parentheses](./20-valid-parentheses) |
 | [496-next-greater-element-i](./496-next-greater-element-i) |
 | [735-asteroid-collision](./735-asteroid-collision) |
@@ -547,6 +549,7 @@
 | Problem Folder |
 | :--- |
 | [125-valid-palindrome](./125-valid-palindrome) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](./1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
