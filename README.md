@@ -22,6 +22,7 @@
 | [1934-evaluate-the-bracket-pairs-of-a-string](./1934-evaluate-the-bracket-pairs-of-a-string) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](./2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2212-removing-minimum-and-maximum-from-array](./2212-removing-minimum-and-maximum-from-array) |
 | [2215-finding-3-digit-even-numbers](./2215-finding-3-digit-even-numbers) |
 | [2338-minimum-consecutive-cards-to-pick-up](./2338-minimum-consecutive-cards-to-pick-up) |
@@ -85,6 +86,7 @@
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](./2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 
 
@@ -306,6 +308,7 @@
 | :--- |
 | [11-container-with-most-water](./11-container-with-most-water) |
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](./2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2212-removing-minimum-and-maximum-from-array](./2212-removing-minimum-and-maximum-from-array) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
