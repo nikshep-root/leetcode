@@ -12,6 +12,7 @@
 | [1137-height-checker](./1137-height-checker) |
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | [130-surrounded-regions](./130-surrounded-regions) |
+| [1335-maximum-candies-allocated-to-k-children](./1335-maximum-candies-allocated-to-k-children) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](./1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [1538-maximum-points-you-can-obtain-from-cards](./1538-maximum-points-you-can-obtain-from-cards) |
@@ -83,6 +84,7 @@
 | :--- |
 | [1046-max-consecutive-ones-iii](./1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](./1056-capacity-to-ship-packages-within-d-days) |
+| [1335-maximum-candies-allocated-to-k-children](./1335-maximum-candies-allocated-to-k-children) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
