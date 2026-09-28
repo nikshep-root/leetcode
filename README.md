@@ -6,6 +6,7 @@
 | :--- |
 | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](./1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](./1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](./1073-number-of-enclaves) |
 | [11-container-with-most-water](./11-container-with-most-water) |
 | [1137-height-checker](./1137-height-checker) |
@@ -80,6 +81,7 @@
 | Problem Folder |
 | :--- |
 | [1046-max-consecutive-ones-iii](./1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](./1056-capacity-to-ship-packages-within-d-days) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
