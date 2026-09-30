@@ -48,6 +48,7 @@
 | [4384-elevator-requests-i](./4384-elevator-requests-i) |
 | [4412-count-good-cyclic-rotations](./4412-count-good-cyclic-rotations) |
 | [4415-count-values-with-equally-spaced-occurrences-i](./4415-count-values-with-equally-spaced-occurrences-i) |
+| [4418-number-of-intersecting-interval-pairs-i](./4418-number-of-intersecting-interval-pairs-i) |
 | [496-next-greater-element-i](./496-next-greater-element-i) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [561-array-partition](./561-array-partition) |
@@ -90,6 +91,7 @@
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](./2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
+| [4418-number-of-intersecting-interval-pairs-i](./4418-number-of-intersecting-interval-pairs-i) |
 
 
 ## Binary Search Tree
@@ -132,6 +134,7 @@
 
 | Problem Folder |
 | :--- |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](./1737-maximum-nesting-depth-of-the-parentheses) |
 | [20-valid-parentheses](./20-valid-parentheses) |
@@ -268,6 +271,7 @@
 | [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
 | [3805-maximize-active-section-with-trade-i](./3805-maximize-active-section-with-trade-i) |
 | [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](./4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+| [4418-number-of-intersecting-interval-pairs-i](./4418-number-of-intersecting-interval-pairs-i) |
 
 
 ## Game Theory
@@ -534,6 +538,7 @@
 | [389-find-the-difference](./389-find-the-difference) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
+| [4418-number-of-intersecting-interval-pairs-i](./4418-number-of-intersecting-interval-pairs-i) |
 | [561-array-partition](./561-array-partition) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 | [748-largest-number-at-least-twice-of-others](./748-largest-number-at-least-twice-of-others) |
@@ -546,6 +551,7 @@
 | Problem Folder |
 | :--- |
 | [114-flatten-binary-tree-to-linked-list](./114-flatten-binary-tree-to-linked-list) |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](./1737-maximum-nesting-depth-of-the-parentheses) |
 | [20-valid-parentheses](./20-valid-parentheses) |
@@ -557,6 +563,7 @@
 
 | Problem Folder |
 | :--- |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [125-valid-palindrome](./125-valid-palindrome) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](./1737-maximum-nesting-depth-of-the-parentheses) |
@@ -640,13 +647,6 @@
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
-
-
-## Uncategorized
-
-| Problem Folder |
-| :--- |
-| [4418-number-of-intersecting-interval-pairs-i](./4418-number-of-intersecting-interval-pairs-i) |
 
 
 ## Union-Find
