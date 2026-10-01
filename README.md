@@ -57,6 +57,7 @@
 | [695-max-area-of-island](./695-max-area-of-island) |
 | [735-asteroid-collision](./735-asteroid-collision) |
 | [748-largest-number-at-least-twice-of-others](./748-largest-number-at-least-twice-of-others) |
+| [80-remove-duplicates-from-sorted-array-ii](./80-remove-duplicates-from-sorted-array-ii) |
 | [909-stone-game](./909-stone-game) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 | [932-monotonic-array](./932-monotonic-array) |
@@ -645,6 +646,7 @@
 | [125-valid-palindrome](./125-valid-palindrome) |
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
+| [80-remove-duplicates-from-sorted-array-ii](./80-remove-duplicates-from-sorted-array-ii) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
 
