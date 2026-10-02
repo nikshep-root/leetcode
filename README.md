@@ -276,6 +276,13 @@
 | [4418-number-of-intersecting-interval-pairs-i](./4418-number-of-intersecting-interval-pairs-i) |
 
 
+## Floyd's Cycle Finding Algorithm
+
+| Problem Folder |
+| :--- |
+| [142-linked-list-cycle-ii](./142-linked-list-cycle-ii) |
+
+
 ## Game Theory
 
 | Problem Folder |
@@ -329,6 +336,7 @@
 | Problem Folder |
 | :--- |
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
+| [142-linked-list-cycle-ii](./142-linked-list-cycle-ii) |
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
@@ -381,6 +389,7 @@
 | Problem Folder |
 | :--- |
 | [114-flatten-binary-tree-to-linked-list](./114-flatten-binary-tree-to-linked-list) |
+| [142-linked-list-cycle-ii](./142-linked-list-cycle-ii) |
 | [206-reverse-linked-list](./206-reverse-linked-list) |
 | [21-merge-two-sorted-lists](./21-merge-two-sorted-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](./2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -649,6 +658,7 @@
 | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | [11-container-with-most-water](./11-container-with-most-water) |
 | [125-valid-palindrome](./125-valid-palindrome) |
+| [142-linked-list-cycle-ii](./142-linked-list-cycle-ii) |
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | [344-reverse-string](./344-reverse-string) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
