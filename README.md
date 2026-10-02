@@ -344,6 +344,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
 | [2215-finding-3-digit-even-numbers](./2215-finding-3-digit-even-numbers) |
 | [2338-minimum-consecutive-cards-to-pick-up](./2338-minimum-consecutive-cards-to-pick-up) |
+| [242-valid-anagram](./242-valid-anagram) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](./2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2954-maximum-sum-of-almost-unique-subarray](./2954-maximum-sum-of-almost-unique-subarray) |
 | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
@@ -543,6 +544,7 @@
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [2215-finding-3-digit-even-numbers](./2215-finding-3-digit-even-numbers) |
+| [242-valid-anagram](./242-valid-anagram) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
@@ -585,6 +587,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
 | [20-valid-parentheses](./20-valid-parentheses) |
 | [2304-cells-in-a-range-on-an-excel-sheet](./2304-cells-in-a-range-on-an-excel-sheet) |
+| [242-valid-anagram](./242-valid-anagram) |
 | [2786-find-the-longest-semi-repetitive-substring](./2786-find-the-longest-semi-repetitive-substring) |
 | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](./3150-shortest-and-lexicographically-smallest-beautiful-string) |
