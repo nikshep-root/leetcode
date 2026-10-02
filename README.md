@@ -49,6 +49,7 @@
 | [4412-count-good-cyclic-rotations](./4412-count-good-cyclic-rotations) |
 | [4415-count-values-with-equally-spaced-occurrences-i](./4415-count-values-with-equally-spaced-occurrences-i) |
 | [4418-number-of-intersecting-interval-pairs-i](./4418-number-of-intersecting-interval-pairs-i) |
+| [49-group-anagrams](./49-group-anagrams) |
 | [496-next-greater-element-i](./496-next-greater-element-i) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [561-array-partition](./561-array-partition) |
@@ -357,6 +358,7 @@
 | [4080-smallest-missing-multiple-of-k](./4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
 | [4415-count-values-with-equally-spaced-occurrences-i](./4415-count-values-with-equally-spaced-occurrences-i) |
+| [49-group-anagrams](./49-group-anagrams) |
 | [496-next-greater-element-i](./496-next-greater-element-i) |
 | [940-fruit-into-baskets](./940-fruit-into-baskets) |
 | [990-verifying-an-alien-dictionary](./990-verifying-an-alien-dictionary) |
@@ -553,6 +555,7 @@
 | [4107-find-missing-elements](./4107-find-missing-elements) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [4418-number-of-intersecting-interval-pairs-i](./4418-number-of-intersecting-interval-pairs-i) |
+| [49-group-anagrams](./49-group-anagrams) |
 | [561-array-partition](./561-array-partition) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 | [748-largest-number-at-least-twice-of-others](./748-largest-number-at-least-twice-of-others) |
@@ -598,6 +601,7 @@
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
 | [389-find-the-difference](./389-find-the-difference) |
 | [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](./4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+| [49-group-anagrams](./49-group-anagrams) |
 | [541-reverse-string-ii](./541-reverse-string-ii) |
 | [812-rotate-string](./812-rotate-string) |
 | [990-verifying-an-alien-dictionary](./990-verifying-an-alien-dictionary) |
