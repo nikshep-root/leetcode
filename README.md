@@ -56,6 +56,7 @@
 | [643-maximum-average-subarray-i](./643-maximum-average-subarray-i) |
 | [695-max-area-of-island](./695-max-area-of-island) |
 | [735-asteroid-collision](./735-asteroid-collision) |
+| [739-daily-temperatures](./739-daily-temperatures) |
 | [748-largest-number-at-least-twice-of-others](./748-largest-number-at-least-twice-of-others) |
 | [80-remove-duplicates-from-sorted-array-ii](./80-remove-duplicates-from-sorted-array-ii) |
 | [909-stone-game](./909-stone-game) |
@@ -445,6 +446,7 @@
 | Problem Folder |
 | :--- |
 | [496-next-greater-element-i](./496-next-greater-element-i) |
+| [739-daily-temperatures](./739-daily-temperatures) |
 
 
 ## Nim Game
@@ -558,6 +560,7 @@
 | [20-valid-parentheses](./20-valid-parentheses) |
 | [496-next-greater-element-i](./496-next-greater-element-i) |
 | [735-asteroid-collision](./735-asteroid-collision) |
+| [739-daily-temperatures](./739-daily-temperatures) |
 
 
 ## String
