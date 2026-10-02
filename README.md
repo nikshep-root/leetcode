@@ -583,6 +583,7 @@
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
 | [389-find-the-difference](./389-find-the-difference) |
 | [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](./4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+| [541-reverse-string-ii](./541-reverse-string-ii) |
 | [812-rotate-string](./812-rotate-string) |
 | [990-verifying-an-alien-dictionary](./990-verifying-an-alien-dictionary) |
 
@@ -648,6 +649,7 @@
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | [344-reverse-string](./344-reverse-string) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
+| [541-reverse-string-ii](./541-reverse-string-ii) |
 | [80-remove-duplicates-from-sorted-array-ii](./80-remove-duplicates-from-sorted-array-ii) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
