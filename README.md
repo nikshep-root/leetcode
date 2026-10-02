@@ -217,6 +217,7 @@
 | [196-delete-duplicate-emails](./196-delete-duplicate-emails) |
 | [570-managers-with-at-least-5-direct-reports](./570-managers-with-at-least-5-direct-reports) |
 | [586-customer-placing-the-largest-number-of-orders](./586-customer-placing-the-largest-number-of-orders) |
+| [596-classes-with-at-least-5-students](./596-classes-with-at-least-5-students) |
 | [607-sales-person](./607-sales-person) |
 
 
