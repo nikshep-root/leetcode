@@ -207,6 +207,7 @@
 
 | Problem Folder |
 | :--- |
+| [1301-reformat-department-table](./1301-reformat-department-table) |
 | [176-second-highest-salary](./176-second-highest-salary) |
 | [178-rank-scores](./178-rank-scores) |
 | [181-employees-earning-more-than-their-managers](./181-employees-earning-more-than-their-managers) |
