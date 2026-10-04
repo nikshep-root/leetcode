@@ -141,6 +141,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](./1737-maximum-nesting-depth-of-the-parentheses) |
 | [20-valid-parentheses](./20-valid-parentheses) |
+| [678-valid-parenthesis-string](./678-valid-parenthesis-string) |
 
 
 ## Brainteaser
@@ -265,6 +266,7 @@
 
 | Problem Folder |
 | :--- |
+| [678-valid-parenthesis-string](./678-valid-parenthesis-string) |
 | [909-stone-game](./909-stone-game) |
 
 
@@ -332,6 +334,7 @@
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [561-array-partition](./561-array-partition) |
+| [678-valid-parenthesis-string](./678-valid-parenthesis-string) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 
 
@@ -576,6 +579,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](./1737-maximum-nesting-depth-of-the-parentheses) |
 | [20-valid-parentheses](./20-valid-parentheses) |
 | [496-next-greater-element-i](./496-next-greater-element-i) |
+| [678-valid-parenthesis-string](./678-valid-parenthesis-string) |
 | [735-asteroid-collision](./735-asteroid-collision) |
 | [739-daily-temperatures](./739-daily-temperatures) |
 
@@ -606,6 +610,7 @@
 | [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](./4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [49-group-anagrams](./49-group-anagrams) |
 | [541-reverse-string-ii](./541-reverse-string-ii) |
+| [678-valid-parenthesis-string](./678-valid-parenthesis-string) |
 | [812-rotate-string](./812-rotate-string) |
 | [990-verifying-an-alien-dictionary](./990-verifying-an-alien-dictionary) |
 
