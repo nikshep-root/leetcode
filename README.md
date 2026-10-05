@@ -142,6 +142,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](./1737-maximum-nesting-depth-of-the-parentheses) |
 | [20-valid-parentheses](./20-valid-parentheses) |
 | [678-valid-parenthesis-string](./678-valid-parenthesis-string) |
+| [886-score-of-parentheses](./886-score-of-parentheses) |
 
 
 ## Brainteaser
@@ -582,6 +583,7 @@
 | [678-valid-parenthesis-string](./678-valid-parenthesis-string) |
 | [735-asteroid-collision](./735-asteroid-collision) |
 | [739-daily-temperatures](./739-daily-temperatures) |
+| [886-score-of-parentheses](./886-score-of-parentheses) |
 
 
 ## String
@@ -612,6 +614,7 @@
 | [541-reverse-string-ii](./541-reverse-string-ii) |
 | [678-valid-parenthesis-string](./678-valid-parenthesis-string) |
 | [812-rotate-string](./812-rotate-string) |
+| [886-score-of-parentheses](./886-score-of-parentheses) |
 | [990-verifying-an-alien-dictionary](./990-verifying-an-alien-dictionary) |
 
 
