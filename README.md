@@ -143,6 +143,7 @@
 | [20-valid-parentheses](./20-valid-parentheses) |
 | [678-valid-parenthesis-string](./678-valid-parenthesis-string) |
 | [886-score-of-parentheses](./886-score-of-parentheses) |
+| [957-minimum-add-to-make-parentheses-valid](./957-minimum-add-to-make-parentheses-valid) |
 
 
 ## Brainteaser
@@ -337,6 +338,7 @@
 | [561-array-partition](./561-array-partition) |
 | [678-valid-parenthesis-string](./678-valid-parenthesis-string) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
+| [957-minimum-add-to-make-parentheses-valid](./957-minimum-add-to-make-parentheses-valid) |
 
 
 ## Hash Table
@@ -584,6 +586,7 @@
 | [735-asteroid-collision](./735-asteroid-collision) |
 | [739-daily-temperatures](./739-daily-temperatures) |
 | [886-score-of-parentheses](./886-score-of-parentheses) |
+| [957-minimum-add-to-make-parentheses-valid](./957-minimum-add-to-make-parentheses-valid) |
 
 
 ## String
@@ -615,6 +618,7 @@
 | [678-valid-parenthesis-string](./678-valid-parenthesis-string) |
 | [812-rotate-string](./812-rotate-string) |
 | [886-score-of-parentheses](./886-score-of-parentheses) |
+| [957-minimum-add-to-make-parentheses-valid](./957-minimum-add-to-make-parentheses-valid) |
 | [990-verifying-an-alien-dictionary](./990-verifying-an-alien-dictionary) |
 
 
