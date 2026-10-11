@@ -30,6 +30,7 @@
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](./2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
+| [2844-sum-of-squares-of-special-elements](./2844-sum-of-squares-of-special-elements) |
 | [2954-maximum-sum-of-almost-unique-subarray](./2954-maximum-sum-of-almost-unique-subarray) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -279,6 +280,7 @@
 | Problem Folder |
 | :--- |
 | [2215-finding-3-digit-even-numbers](./2215-finding-3-digit-even-numbers) |
+| [2844-sum-of-squares-of-special-elements](./2844-sum-of-squares-of-special-elements) |
 | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
 | [3805-maximize-active-section-with-trade-i](./3805-maximize-active-section-with-trade-i) |
