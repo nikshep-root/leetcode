@@ -53,6 +53,7 @@
 | [4418-number-of-intersecting-interval-pairs-i](./4418-number-of-intersecting-interval-pairs-i) |
 | [49-group-anagrams](./49-group-anagrams) |
 | [496-next-greater-element-i](./496-next-greater-element-i) |
+| [498-diagonal-traverse](./498-diagonal-traverse) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [561-array-partition](./561-array-partition) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
@@ -449,6 +450,7 @@
 | [130-surrounded-regions](./130-surrounded-regions) |
 | [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) |
 | [200-number-of-islands](./200-number-of-islands) |
+| [498-diagonal-traverse](./498-diagonal-traverse) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [695-max-area-of-island](./695-max-area-of-island) |
 
@@ -523,6 +525,7 @@
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | [3811-reverse-degree-of-a-string](./3811-reverse-degree-of-a-string) |
 | [4384-elevator-requests-i](./4384-elevator-requests-i) |
+| [498-diagonal-traverse](./498-diagonal-traverse) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [735-asteroid-collision](./735-asteroid-collision) |
 
