@@ -141,7 +141,6 @@
 | Problem Folder |
 | :--- |
 | [1078-remove-outermost-parentheses](./1078-remove-outermost-parentheses) |
-| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](./1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](./1737-maximum-nesting-depth-of-the-parentheses) |
@@ -522,6 +521,7 @@
 
 | Problem Folder |
 | :--- |
+| [2197-decode-the-slanted-ciphertext](./2197-decode-the-slanted-ciphertext) |
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | [3811-reverse-degree-of-a-string](./3811-reverse-degree-of-a-string) |
 | [4384-elevator-requests-i](./4384-elevator-requests-i) |
@@ -588,7 +588,6 @@
 | :--- |
 | [1078-remove-outermost-parentheses](./1078-remove-outermost-parentheses) |
 | [114-flatten-binary-tree-to-linked-list](./114-flatten-binary-tree-to-linked-list) |
-| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](./1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](./1737-maximum-nesting-depth-of-the-parentheses) |
@@ -606,7 +605,6 @@
 | Problem Folder |
 | :--- |
 | [1078-remove-outermost-parentheses](./1078-remove-outermost-parentheses) |
-| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [125-valid-palindrome](./125-valid-palindrome) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](./1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -615,6 +613,7 @@
 | [1934-evaluate-the-bracket-pairs-of-a-string](./1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
 | [20-valid-parentheses](./20-valid-parentheses) |
+| [2197-decode-the-slanted-ciphertext](./2197-decode-the-slanted-ciphertext) |
 | [2304-cells-in-a-range-on-an-excel-sheet](./2304-cells-in-a-range-on-an-excel-sheet) |
 | [242-valid-anagram](./242-valid-anagram) |
 | [2786-find-the-longest-semi-repetitive-substring](./2786-find-the-longest-semi-repetitive-substring) |
@@ -702,6 +701,13 @@
 | [80-remove-duplicates-from-sorted-array-ii](./80-remove-duplicates-from-sorted-array-ii) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
+
+
+## Uncategorized
+
+| Problem Folder |
+| :--- |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 
 
 ## Union-Find
