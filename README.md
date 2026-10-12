@@ -19,6 +19,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](./1580-shuffle-the-array) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
+| [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](./1934-evaluate-the-bracket-pairs-of-a-string) |
 | [200-number-of-islands](./200-number-of-islands) |
@@ -446,6 +447,7 @@
 | :--- |
 | [1073-number-of-enclaves](./1073-number-of-enclaves) |
 | [130-surrounded-regions](./130-surrounded-regions) |
+| [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [695-max-area-of-island](./695-max-area-of-island) |
