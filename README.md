@@ -62,6 +62,7 @@
 | [735-asteroid-collision](./735-asteroid-collision) |
 | [739-daily-temperatures](./739-daily-temperatures) |
 | [748-largest-number-at-least-twice-of-others](./748-largest-number-at-least-twice-of-others) |
+| [777-toeplitz-matrix](./777-toeplitz-matrix) |
 | [80-remove-duplicates-from-sorted-array-ii](./80-remove-duplicates-from-sorted-array-ii) |
 | [909-stone-game](./909-stone-game) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
@@ -141,6 +142,7 @@
 | Problem Folder |
 | :--- |
 | [1078-remove-outermost-parentheses](./1078-remove-outermost-parentheses) |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](./1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](./1737-maximum-nesting-depth-of-the-parentheses) |
@@ -452,6 +454,7 @@
 | [498-diagonal-traverse](./498-diagonal-traverse) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [695-max-area-of-island](./695-max-area-of-island) |
+| [777-toeplitz-matrix](./777-toeplitz-matrix) |
 
 
 ## Merge Sort
@@ -588,6 +591,7 @@
 | :--- |
 | [1078-remove-outermost-parentheses](./1078-remove-outermost-parentheses) |
 | [114-flatten-binary-tree-to-linked-list](./114-flatten-binary-tree-to-linked-list) |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](./1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](./1737-maximum-nesting-depth-of-the-parentheses) |
@@ -605,6 +609,7 @@
 | Problem Folder |
 | :--- |
 | [1078-remove-outermost-parentheses](./1078-remove-outermost-parentheses) |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [125-valid-palindrome](./125-valid-palindrome) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](./1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -701,13 +706,6 @@
 | [80-remove-duplicates-from-sorted-array-ii](./80-remove-duplicates-from-sorted-array-ii) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
-
-
-## Uncategorized
-
-| Problem Folder |
-| :--- |
-| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 
 
 ## Union-Find
