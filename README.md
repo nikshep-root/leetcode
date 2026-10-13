@@ -39,6 +39,7 @@
 | [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
+| [4078-maximum-alternating-sum-of-squares](./4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](./4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
 | [4256-construct-uniform-parity-array-i](./4256-construct-uniform-parity-array-i) |
@@ -342,6 +343,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](./2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2212-removing-minimum-and-maximum-from-array](./2212-removing-minimum-and-maximum-from-array) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
+| [4078-maximum-alternating-sum-of-squares](./4078-maximum-alternating-sum-of-squares) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [561-array-partition](./561-array-partition) |
 | [678-valid-parenthesis-string](./678-valid-parenthesis-string) |
@@ -574,6 +576,7 @@
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
 | [389-find-the-difference](./389-find-the-difference) |
+| [4078-maximum-alternating-sum-of-squares](./4078-maximum-alternating-sum-of-squares) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [4418-number-of-intersecting-interval-pairs-i](./4418-number-of-intersecting-interval-pairs-i) |
