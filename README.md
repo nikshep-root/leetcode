@@ -37,6 +37,7 @@
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
+| [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
@@ -102,6 +103,7 @@
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](./2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
+| [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | [367-valid-perfect-square](./367-valid-perfect-square) |
 | [4418-number-of-intersecting-interval-pairs-i](./4418-number-of-intersecting-interval-pairs-i) |
 
@@ -377,6 +379,7 @@
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
+| [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
 | [389-find-the-difference](./389-find-the-difference) |
@@ -583,6 +586,7 @@
 | [242-valid-anagram](./242-valid-anagram) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
 | [389-find-the-difference](./389-find-the-difference) |
@@ -714,6 +718,7 @@
 | [142-linked-list-cycle-ii](./142-linked-list-cycle-ii) |
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | [344-reverse-string](./344-reverse-string) |
+| [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [541-reverse-string-ii](./541-reverse-string-ii) |
 | [80-remove-duplicates-from-sorted-array-ii](./80-remove-duplicates-from-sorted-array-ii) |
