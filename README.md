@@ -40,6 +40,7 @@
 | [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](./3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4078-maximum-alternating-sum-of-squares](./4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](./4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
@@ -437,6 +438,7 @@
 | [292-nim-game](./292-nim-game) |
 | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](./3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
 | [3918-check-divisibility-by-digit-sum-and-product](./3918-check-divisibility-by-digit-sum-and-product) |
 | [4084-maximize-sum-of-squares-of-digits](./4084-maximize-sum-of-squares-of-digits) |
