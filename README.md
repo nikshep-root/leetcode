@@ -731,6 +731,7 @@
 | Problem Folder |
 | :--- |
 | [4430-minimum-deletions-to-make-array-sharp](./4430-minimum-deletions-to-make-array-sharp) |
+| [4456-last-visited-cell-in-a-directional-grid](./4456-last-visited-cell-in-a-directional-grid) |
 
 
 ## Union-Find
