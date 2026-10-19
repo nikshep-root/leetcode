@@ -726,6 +726,13 @@
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
 
 
+## Uncategorized
+
+| Problem Folder |
+| :--- |
+| [4430-minimum-deletions-to-make-array-sharp](./4430-minimum-deletions-to-make-array-sharp) |
+
+
 ## Union-Find
 
 | Problem Folder |
