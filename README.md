@@ -34,6 +34,7 @@
 | [2844-sum-of-squares-of-special-elements](./2844-sum-of-squares-of-special-elements) |
 | [2954-maximum-sum-of-almost-unique-subarray](./2954-maximum-sum-of-almost-unique-subarray) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](./3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3194-find-words-containing-character](./3194-find-words-containing-character) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
@@ -641,6 +642,7 @@
 | [2786-find-the-longest-semi-repetitive-substring](./2786-find-the-longest-semi-repetitive-substring) |
 | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](./3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3194-find-words-containing-character](./3194-find-words-containing-character) |
 | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 | [344-reverse-string](./344-reverse-string) |
 | [3805-maximize-active-section-with-trade-i](./3805-maximize-active-section-with-trade-i) |
