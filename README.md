@@ -43,6 +43,7 @@
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
+| [363-max-sum-of-rectangle-no-larger-than-k](./363-max-sum-of-rectangle-no-larger-than-k) |
 | [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
@@ -109,6 +110,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](./2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
+| [363-max-sum-of-rectangle-no-larger-than-k](./363-max-sum-of-rectangle-no-larger-than-k) |
 | [367-valid-perfect-square](./367-valid-perfect-square) |
 | [4418-number-of-intersecting-interval-pairs-i](./4418-number-of-intersecting-interval-pairs-i) |
 
@@ -477,6 +479,7 @@
 | [130-surrounded-regions](./130-surrounded-regions) |
 | [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) |
 | [200-number-of-islands](./200-number-of-islands) |
+| [363-max-sum-of-rectangle-no-larger-than-k](./363-max-sum-of-rectangle-no-larger-than-k) |
 | [498-diagonal-traverse](./498-diagonal-traverse) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [695-max-area-of-island](./695-max-area-of-island) |
@@ -514,6 +517,13 @@
 | [292-nim-game](./292-nim-game) |
 
 
+## Ordered Set
+
+| Problem Folder |
+| :--- |
+| [363-max-sum-of-rectangle-no-larger-than-k](./363-max-sum-of-rectangle-no-larger-than-k) |
+
+
 ## Prefix Sum
 
 | Problem Folder |
@@ -523,6 +533,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
+| [363-max-sum-of-rectangle-no-larger-than-k](./363-max-sum-of-rectangle-no-larger-than-k) |
 | [4284-smallest-stable-index-i](./4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](./4285-smallest-stable-index-ii) |
 | [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
