@@ -304,6 +304,7 @@
 | Problem Folder |
 | :--- |
 | [142-linked-list-cycle-ii](./142-linked-list-cycle-ii) |
+| [202-happy-number](./202-happy-number) |
 
 
 ## Game Theory
@@ -370,6 +371,7 @@
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](./1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
+| [202-happy-number](./202-happy-number) |
 | [2215-finding-3-digit-even-numbers](./2215-finding-3-digit-even-numbers) |
 | [2338-minimum-consecutive-cards-to-pick-up](./2338-minimum-consecutive-cards-to-pick-up) |
 | [242-valid-anagram](./242-valid-anagram) |
@@ -440,6 +442,7 @@
 | Problem Folder |
 | :--- |
 | [1501-circle-and-rectangle-overlapping](./1501-circle-and-rectangle-overlapping) |
+| [202-happy-number](./202-happy-number) |
 | [292-nim-game](./292-nim-game) |
 | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | [367-valid-perfect-square](./367-valid-perfect-square) |
@@ -718,6 +721,7 @@
 | [11-container-with-most-water](./11-container-with-most-water) |
 | [125-valid-palindrome](./125-valid-palindrome) |
 | [142-linked-list-cycle-ii](./142-linked-list-cycle-ii) |
+| [202-happy-number](./202-happy-number) |
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | [344-reverse-string](./344-reverse-string) |
 | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
