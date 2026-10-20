@@ -25,6 +25,7 @@
 | [1934-evaluate-the-bracket-pairs-of-a-string](./1934-evaluate-the-bracket-pairs-of-a-string) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
+| [2144-maximum-difference-between-increasing-elements](./2144-maximum-difference-between-increasing-elements) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](./2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2212-removing-minimum-and-maximum-from-array](./2212-removing-minimum-and-maximum-from-array) |
 | [2215-finding-3-digit-even-numbers](./2215-finding-3-digit-even-numbers) |
