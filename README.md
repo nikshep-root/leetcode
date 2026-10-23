@@ -48,6 +48,7 @@
 | [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](./3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3950-maximum-k-to-sort-a-permutation](./3950-maximum-k-to-sort-a-permutation) |
 | [4078-maximum-alternating-sum-of-squares](./4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](./4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
@@ -149,6 +150,7 @@
 | :--- |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [389-find-the-difference](./389-find-the-difference) |
+| [3950-maximum-k-to-sort-a-permutation](./3950-maximum-k-to-sort-a-permutation) |
 
 
 ## Bracket Sequences
