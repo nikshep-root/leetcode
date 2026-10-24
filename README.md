@@ -758,6 +758,7 @@
 | Problem Folder |
 | :--- |
 | [4430-minimum-deletions-to-make-array-sharp](./4430-minimum-deletions-to-make-array-sharp) |
+| [4436-difference-between-peaks-and-valleys](./4436-difference-between-peaks-and-valleys) |
 | [4456-last-visited-cell-in-a-directional-grid](./4456-last-visited-cell-in-a-directional-grid) |
 
 
