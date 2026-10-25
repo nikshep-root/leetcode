@@ -16,6 +16,7 @@
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | [130-surrounded-regions](./130-surrounded-regions) |
 | [1335-maximum-candies-allocated-to-k-children](./1335-maximum-candies-allocated-to-k-children) |
+| [1380-number-of-closed-islands](./1380-number-of-closed-islands) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](./1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [1538-maximum-points-you-can-obtain-from-cards](./1538-maximum-points-you-can-obtain-from-cards) |
@@ -184,6 +185,7 @@
 | [1073-number-of-enclaves](./1073-number-of-enclaves) |
 | [112-path-sum](./112-path-sum) |
 | [130-surrounded-regions](./130-surrounded-regions) |
+| [1380-number-of-closed-islands](./1380-number-of-closed-islands) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [207-course-schedule](./207-course-schedule) |
 | [210-course-schedule-ii](./210-course-schedule-ii) |
@@ -259,6 +261,7 @@
 | [114-flatten-binary-tree-to-linked-list](./114-flatten-binary-tree-to-linked-list) |
 | [129-sum-root-to-leaf-numbers](./129-sum-root-to-leaf-numbers) |
 | [130-surrounded-regions](./130-surrounded-regions) |
+| [1380-number-of-closed-islands](./1380-number-of-closed-islands) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [207-course-schedule](./207-course-schedule) |
 | [210-course-schedule-ii](./210-course-schedule-ii) |
@@ -479,6 +482,7 @@
 | :--- |
 | [1073-number-of-enclaves](./1073-number-of-enclaves) |
 | [130-surrounded-regions](./130-surrounded-regions) |
+| [1380-number-of-closed-islands](./1380-number-of-closed-islands) |
 | [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [363-max-sum-of-rectangle-no-larger-than-k](./363-max-sum-of-rectangle-no-larger-than-k) |
@@ -770,6 +774,7 @@
 | [1073-number-of-enclaves](./1073-number-of-enclaves) |
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | [130-surrounded-regions](./130-surrounded-regions) |
+| [1380-number-of-closed-islands](./1380-number-of-closed-islands) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [547-number-of-provinces](./547-number-of-provinces) |
 | [695-max-area-of-island](./695-max-area-of-island) |
