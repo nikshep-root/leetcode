@@ -764,6 +764,7 @@
 | [4391-count-subarrays-with-loose-bounds](./4391-count-subarrays-with-loose-bounds) |
 | [4430-minimum-deletions-to-make-array-sharp](./4430-minimum-deletions-to-make-array-sharp) |
 | [4436-difference-between-peaks-and-valleys](./4436-difference-between-peaks-and-valleys) |
+| [4449-binary-digit-score](./4449-binary-digit-score) |
 | [4456-last-visited-cell-in-a-directional-grid](./4456-last-visited-cell-in-a-directional-grid) |
 
 
