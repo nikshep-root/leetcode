@@ -47,6 +47,7 @@
 | [363-max-sum-of-rectangle-no-larger-than-k](./363-max-sum-of-rectangle-no-larger-than-k) |
 | [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
+| [3823-count-islands-with-total-value-divisible-by-k](./3823-count-islands-with-total-value-divisible-by-k) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](./3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3950-maximum-k-to-sort-a-permutation](./3950-maximum-k-to-sort-a-permutation) |
@@ -190,6 +191,7 @@
 | [207-course-schedule](./207-course-schedule) |
 | [210-course-schedule-ii](./210-course-schedule-ii) |
 | [226-invert-binary-tree](./226-invert-binary-tree) |
+| [3823-count-islands-with-total-value-divisible-by-k](./3823-count-islands-with-total-value-divisible-by-k) |
 | [547-number-of-provinces](./547-number-of-provinces) |
 | [695-max-area-of-island](./695-max-area-of-island) |
 | [801-is-graph-bipartite](./801-is-graph-bipartite) |
@@ -267,6 +269,7 @@
 | [210-course-schedule-ii](./210-course-schedule-ii) |
 | [226-invert-binary-tree](./226-invert-binary-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
+| [3823-count-islands-with-total-value-divisible-by-k](./3823-count-islands-with-total-value-divisible-by-k) |
 | [547-number-of-provinces](./547-number-of-provinces) |
 | [695-max-area-of-island](./695-max-area-of-island) |
 | [801-is-graph-bipartite](./801-is-graph-bipartite) |
@@ -486,6 +489,7 @@
 | [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [363-max-sum-of-rectangle-no-larger-than-k](./363-max-sum-of-rectangle-no-larger-than-k) |
+| [3823-count-islands-with-total-value-divisible-by-k](./3823-count-islands-with-total-value-divisible-by-k) |
 | [498-diagonal-traverse](./498-diagonal-traverse) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [695-max-area-of-island](./695-max-area-of-island) |
@@ -777,6 +781,7 @@
 | [130-surrounded-regions](./130-surrounded-regions) |
 | [1380-number-of-closed-islands](./1380-number-of-closed-islands) |
 | [200-number-of-islands](./200-number-of-islands) |
+| [3823-count-islands-with-total-value-divisible-by-k](./3823-count-islands-with-total-value-divisible-by-k) |
 | [547-number-of-provinces](./547-number-of-provinces) |
 | [695-max-area-of-island](./695-max-area-of-island) |
 | [801-is-graph-bipartite](./801-is-graph-bipartite) |
