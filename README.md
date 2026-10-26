@@ -5,6 +5,7 @@
 | Problem Folder |
 | :--- |
 | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](./1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](./1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](./1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](./1073-number-of-enclaves) |
@@ -183,6 +184,7 @@
 | Problem Folder |
 | :--- |
 | [101-symmetric-tree](./101-symmetric-tree) |
+| [1036-rotting-oranges](./1036-rotting-oranges) |
 | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 | [1073-number-of-enclaves](./1073-number-of-enclaves) |
 | [112-path-sum](./112-path-sum) |
@@ -486,6 +488,7 @@
 
 | Problem Folder |
 | :--- |
+| [1036-rotting-oranges](./1036-rotting-oranges) |
 | [1073-number-of-enclaves](./1073-number-of-enclaves) |
 | [130-surrounded-regions](./130-surrounded-regions) |
 | [1380-number-of-closed-islands](./1380-number-of-closed-islands) |
