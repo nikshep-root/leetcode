@@ -772,6 +772,7 @@
 
 | Problem Folder |
 | :--- |
+| [4342-create-grid-with-exactly-one-path](./4342-create-grid-with-exactly-one-path) |
 | [4391-count-subarrays-with-loose-bounds](./4391-count-subarrays-with-loose-bounds) |
 | [4430-minimum-deletions-to-make-array-sharp](./4430-minimum-deletions-to-make-array-sharp) |
 | [4436-difference-between-peaks-and-valleys](./4436-difference-between-peaks-and-valleys) |
