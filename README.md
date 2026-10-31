@@ -81,6 +81,7 @@
 | [80-remove-duplicates-from-sorted-array-ii](./80-remove-duplicates-from-sorted-array-ii) |
 | [909-stone-game](./909-stone-game) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
+| [921-spiral-matrix-iii](./921-spiral-matrix-iii) |
 | [932-monotonic-array](./932-monotonic-array) |
 | [940-fruit-into-baskets](./940-fruit-into-baskets) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
@@ -501,6 +502,7 @@
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [695-max-area-of-island](./695-max-area-of-island) |
 | [777-toeplitz-matrix](./777-toeplitz-matrix) |
+| [921-spiral-matrix-iii](./921-spiral-matrix-iii) |
 
 
 ## Merge Sort
@@ -586,6 +588,7 @@
 | [498-diagonal-traverse](./498-diagonal-traverse) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [735-asteroid-collision](./735-asteroid-collision) |
+| [921-spiral-matrix-iii](./921-spiral-matrix-iii) |
 
 
 ## Sliding Window
