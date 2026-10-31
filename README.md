@@ -35,6 +35,7 @@
 | [2215-finding-3-digit-even-numbers](./2215-finding-3-digit-even-numbers) |
 | [2338-minimum-consecutive-cards-to-pick-up](./2338-minimum-consecutive-cards-to-pick-up) |
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
+| [2411-spiral-matrix-iv](./2411-spiral-matrix-iv) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](./2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [2844-sum-of-squares-of-special-elements](./2844-sum-of-squares-of-special-elements) |
@@ -452,6 +453,7 @@
 | [21-merge-two-sorted-lists](./21-merge-two-sorted-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](./2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [23-merge-k-sorted-lists](./23-merge-k-sorted-lists) |
+| [2411-spiral-matrix-iv](./2411-spiral-matrix-iv) |
 
 
 ## Lowest Common Ancestor
@@ -495,6 +497,7 @@
 | [1380-number-of-closed-islands](./1380-number-of-closed-islands) |
 | [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) |
 | [200-number-of-islands](./200-number-of-islands) |
+| [2411-spiral-matrix-iv](./2411-spiral-matrix-iv) |
 | [363-max-sum-of-rectangle-no-larger-than-k](./363-max-sum-of-rectangle-no-larger-than-k) |
 | [3823-count-islands-with-total-value-divisible-by-k](./3823-count-islands-with-total-value-divisible-by-k) |
 | [463-island-perimeter](./463-island-perimeter) |
@@ -582,6 +585,7 @@
 | Problem Folder |
 | :--- |
 | [2197-decode-the-slanted-ciphertext](./2197-decode-the-slanted-ciphertext) |
+| [2411-spiral-matrix-iv](./2411-spiral-matrix-iv) |
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | [3811-reverse-degree-of-a-string](./3811-reverse-degree-of-a-string) |
 | [4384-elevator-requests-i](./4384-elevator-requests-i) |
