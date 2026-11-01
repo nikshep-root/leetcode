@@ -66,6 +66,7 @@
 | [4412-count-good-cyclic-rotations](./4412-count-good-cyclic-rotations) |
 | [4415-count-values-with-equally-spaced-occurrences-i](./4415-count-values-with-equally-spaced-occurrences-i) |
 | [4418-number-of-intersecting-interval-pairs-i](./4418-number-of-intersecting-interval-pairs-i) |
+| [453-minimum-moves-to-equal-array-elements](./453-minimum-moves-to-equal-array-elements) |
 | [463-island-perimeter](./463-island-perimeter) |
 | [49-group-anagrams](./49-group-anagrams) |
 | [496-next-greater-element-i](./496-next-greater-element-i) |
@@ -481,6 +482,7 @@
 | [4248-count-commas-in-range-ii](./4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](./4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](./4258-construct-uniform-parity-array-ii) |
+| [453-minimum-moves-to-equal-array-elements](./453-minimum-moves-to-equal-array-elements) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 | [7-reverse-integer](./7-reverse-integer) |
 | [866-rectangle-overlap](./866-rectangle-overlap) |
