@@ -71,6 +71,7 @@
 | [49-group-anagrams](./49-group-anagrams) |
 | [496-next-greater-element-i](./496-next-greater-element-i) |
 | [498-diagonal-traverse](./498-diagonal-traverse) |
+| [53-maximum-subarray](./53-maximum-subarray) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [561-array-partition](./561-array-partition) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
@@ -298,6 +299,7 @@
 | :--- |
 | [23-merge-k-sorted-lists](./23-merge-k-sorted-lists) |
 | [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
+| [53-maximum-subarray](./53-maximum-subarray) |
 
 
 ## Dynamic Programming
@@ -307,6 +309,7 @@
 | [121-best-time-to-buy-and-sell-stock](./121-best-time-to-buy-and-sell-stock) |
 | [122-best-time-to-buy-and-sell-stock-ii](./122-best-time-to-buy-and-sell-stock-ii) |
 | [123-best-time-to-buy-and-sell-stock-iii](./123-best-time-to-buy-and-sell-stock-iii) |
+| [53-maximum-subarray](./53-maximum-subarray) |
 | [678-valid-parenthesis-string](./678-valid-parenthesis-string) |
 | [909-stone-game](./909-stone-game) |
 
