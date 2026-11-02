@@ -74,6 +74,7 @@
 | [53-maximum-subarray](./53-maximum-subarray) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [561-array-partition](./561-array-partition) |
+| [605-can-place-flowers](./605-can-place-flowers) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 | [643-maximum-average-subarray-i](./643-maximum-average-subarray-i) |
 | [695-max-area-of-island](./695-max-area-of-island) |
@@ -384,6 +385,7 @@
 | [4084-maximize-sum-of-squares-of-digits](./4084-maximize-sum-of-squares-of-digits) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [561-array-partition](./561-array-partition) |
+| [605-can-place-flowers](./605-can-place-flowers) |
 | [678-valid-parenthesis-string](./678-valid-parenthesis-string) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 | [957-minimum-add-to-make-parentheses-valid](./957-minimum-add-to-make-parentheses-valid) |
