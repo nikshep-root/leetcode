@@ -56,6 +56,7 @@
 | [4078-maximum-alternating-sum-of-squares](./4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](./4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
+| [4116-minimum-moves-to-equal-array-elements-iii](./4116-minimum-moves-to-equal-array-elements-iii) |
 | [4256-construct-uniform-parity-array-i](./4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](./4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](./4284-smallest-stable-index-i) |
@@ -483,6 +484,7 @@
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
 | [3918-check-divisibility-by-digit-sum-and-product](./3918-check-divisibility-by-digit-sum-and-product) |
 | [4084-maximize-sum-of-squares-of-digits](./4084-maximize-sum-of-squares-of-digits) |
+| [4116-minimum-moves-to-equal-array-elements-iii](./4116-minimum-moves-to-equal-array-elements-iii) |
 | [4245-count-commas-in-range](./4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](./4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](./4256-construct-uniform-parity-array-i) |
