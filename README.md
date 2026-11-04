@@ -201,7 +201,6 @@
 | [1380-number-of-closed-islands](./1380-number-of-closed-islands) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [207-course-schedule](./207-course-schedule) |
-| [210-course-schedule-ii](./210-course-schedule-ii) |
 | [226-invert-binary-tree](./226-invert-binary-tree) |
 | [3823-count-islands-with-total-value-divisible-by-k](./3823-count-islands-with-total-value-divisible-by-k) |
 | [463-island-perimeter](./463-island-perimeter) |
@@ -279,7 +278,6 @@
 | [1380-number-of-closed-islands](./1380-number-of-closed-islands) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [207-course-schedule](./207-course-schedule) |
-| [210-course-schedule-ii](./210-course-schedule-ii) |
 | [226-invert-binary-tree](./226-invert-binary-tree) |
 | [236-lowest-common-ancestor-of-a-binary-tree](./236-lowest-common-ancestor-of-a-binary-tree) |
 | [3823-count-islands-with-total-value-divisible-by-k](./3823-count-islands-with-total-value-divisible-by-k) |
@@ -368,7 +366,6 @@
 | Problem Folder |
 | :--- |
 | [207-course-schedule](./207-course-schedule) |
-| [210-course-schedule-ii](./210-course-schedule-ii) |
 | [547-number-of-provinces](./547-number-of-provinces) |
 | [801-is-graph-bipartite](./801-is-graph-bipartite) |
 | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
@@ -743,7 +740,6 @@
 | Problem Folder |
 | :--- |
 | [207-course-schedule](./207-course-schedule) |
-| [210-course-schedule-ii](./210-course-schedule-ii) |
 | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 
 
@@ -794,6 +790,7 @@
 
 | Problem Folder |
 | :--- |
+| [210-course-schedule-ii](./210-course-schedule-ii) |
 | [4342-create-grid-with-exactly-one-path](./4342-create-grid-with-exactly-one-path) |
 | [4391-count-subarrays-with-loose-bounds](./4391-count-subarrays-with-loose-bounds) |
 | [4430-minimum-deletions-to-make-array-sharp](./4430-minimum-deletions-to-make-array-sharp) |
