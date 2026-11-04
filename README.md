@@ -38,6 +38,7 @@
 | [2411-spiral-matrix-iv](./2411-spiral-matrix-iv) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](./2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
+| [27-remove-element](./27-remove-element) |
 | [283-move-zeroes](./283-move-zeroes) |
 | [2844-sum-of-squares-of-special-elements](./2844-sum-of-squares-of-special-elements) |
 | [2954-maximum-sum-of-almost-unique-subarray](./2954-maximum-sum-of-almost-unique-subarray) |
@@ -775,6 +776,7 @@
 | [125-valid-palindrome](./125-valid-palindrome) |
 | [142-linked-list-cycle-ii](./142-linked-list-cycle-ii) |
 | [202-happy-number](./202-happy-number) |
+| [27-remove-element](./27-remove-element) |
 | [283-move-zeroes](./283-move-zeroes) |
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | [344-reverse-string](./344-reverse-string) |
