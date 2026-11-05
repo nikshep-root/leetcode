@@ -20,6 +20,7 @@
 | [1380-number-of-closed-islands](./1380-number-of-closed-islands) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](./1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
+| [1486-find-the-distance-value-between-two-arrays](./1486-find-the-distance-value-between-two-arrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](./1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](./1580-shuffle-the-array) |
@@ -118,6 +119,7 @@
 | [1046-max-consecutive-ones-iii](./1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](./1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](./1335-maximum-candies-allocated-to-k-children) |
+| [1486-find-the-distance-value-between-two-arrays](./1486-find-the-distance-value-between-two-arrays) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
@@ -640,6 +642,7 @@
 | [1019-squares-of-a-sorted-array](./1019-squares-of-a-sorted-array) |
 | [1137-height-checker](./1137-height-checker) |
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
+| [1486-find-the-distance-value-between-two-arrays](./1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
@@ -778,6 +781,7 @@
 | [11-container-with-most-water](./11-container-with-most-water) |
 | [125-valid-palindrome](./125-valid-palindrome) |
 | [142-linked-list-cycle-ii](./142-linked-list-cycle-ii) |
+| [1486-find-the-distance-value-between-two-arrays](./1486-find-the-distance-value-between-two-arrays) |
 | [202-happy-number](./202-happy-number) |
 | [26-remove-duplicates-from-sorted-array](./26-remove-duplicates-from-sorted-array) |
 | [27-remove-element](./27-remove-element) |
