@@ -71,6 +71,7 @@
 | [4412-count-good-cyclic-rotations](./4412-count-good-cyclic-rotations) |
 | [4415-count-values-with-equally-spaced-occurrences-i](./4415-count-values-with-equally-spaced-occurrences-i) |
 | [4418-number-of-intersecting-interval-pairs-i](./4418-number-of-intersecting-interval-pairs-i) |
+| [442-find-all-duplicates-in-an-array](./442-find-all-duplicates-in-an-array) |
 | [453-minimum-moves-to-equal-array-elements](./453-minimum-moves-to-equal-array-elements) |
 | [463-island-perimeter](./463-island-perimeter) |
 | [49-group-anagrams](./49-group-anagrams) |
@@ -426,6 +427,7 @@
 | [4080-smallest-missing-multiple-of-k](./4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
 | [4415-count-values-with-equally-spaced-occurrences-i](./4415-count-values-with-equally-spaced-occurrences-i) |
+| [442-find-all-duplicates-in-an-array](./442-find-all-duplicates-in-an-array) |
 | [49-group-anagrams](./49-group-anagrams) |
 | [496-next-greater-element-i](./496-next-greater-element-i) |
 | [940-fruit-into-baskets](./940-fruit-into-baskets) |
@@ -658,6 +660,7 @@
 | [4107-find-missing-elements](./4107-find-missing-elements) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [4418-number-of-intersecting-interval-pairs-i](./4418-number-of-intersecting-interval-pairs-i) |
+| [442-find-all-duplicates-in-an-array](./442-find-all-duplicates-in-an-array) |
 | [49-group-anagrams](./49-group-anagrams) |
 | [561-array-partition](./561-array-partition) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
