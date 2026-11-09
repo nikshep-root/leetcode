@@ -808,6 +808,7 @@
 | [4342-create-grid-with-exactly-one-path](./4342-create-grid-with-exactly-one-path) |
 | [4391-count-subarrays-with-loose-bounds](./4391-count-subarrays-with-loose-bounds) |
 | [4430-minimum-deletions-to-make-array-sharp](./4430-minimum-deletions-to-make-array-sharp) |
+| [4432-find-mismatched-segments-between-two-strings](./4432-find-mismatched-segments-between-two-strings) |
 | [4436-difference-between-peaks-and-valleys](./4436-difference-between-peaks-and-valleys) |
 | [4448-minimum-value-of-merged-integers](./4448-minimum-value-of-merged-integers) |
 | [4449-binary-digit-score](./4449-binary-digit-score) |
