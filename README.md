@@ -18,6 +18,7 @@
 | [130-surrounded-regions](./130-surrounded-regions) |
 | [1335-maximum-candies-allocated-to-k-children](./1335-maximum-candies-allocated-to-k-children) |
 | [1380-number-of-closed-islands](./1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](./1396-count-servers-that-communicate) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](./1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [1486-find-the-distance-value-between-two-arrays](./1486-find-the-distance-value-between-two-arrays) |
@@ -204,6 +205,7 @@
 | [112-path-sum](./112-path-sum) |
 | [130-surrounded-regions](./130-surrounded-regions) |
 | [1380-number-of-closed-islands](./1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](./1396-count-servers-that-communicate) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [207-course-schedule](./207-course-schedule) |
 | [210-course-schedule-ii](./210-course-schedule-ii) |
@@ -237,6 +239,7 @@
 
 | Problem Folder |
 | :--- |
+| [1396-count-servers-that-communicate](./1396-count-servers-that-communicate) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
 
@@ -282,6 +285,7 @@
 | [129-sum-root-to-leaf-numbers](./129-sum-root-to-leaf-numbers) |
 | [130-surrounded-regions](./130-surrounded-regions) |
 | [1380-number-of-closed-islands](./1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](./1396-count-servers-that-communicate) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [207-course-schedule](./207-course-schedule) |
 | [210-course-schedule-ii](./210-course-schedule-ii) |
@@ -515,6 +519,7 @@
 | [1073-number-of-enclaves](./1073-number-of-enclaves) |
 | [130-surrounded-regions](./130-surrounded-regions) |
 | [1380-number-of-closed-islands](./1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](./1396-count-servers-that-communicate) |
 | [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [2411-spiral-matrix-iv](./2411-spiral-matrix-iv) |
@@ -825,6 +830,7 @@
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | [130-surrounded-regions](./130-surrounded-regions) |
 | [1380-number-of-closed-islands](./1380-number-of-closed-islands) |
+| [1396-count-servers-that-communicate](./1396-count-servers-that-communicate) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [3823-count-islands-with-total-value-divisible-by-k](./3823-count-islands-with-total-value-divisible-by-k) |
 | [547-number-of-provinces](./547-number-of-provinces) |
