@@ -396,6 +396,7 @@
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [4078-maximum-alternating-sum-of-squares](./4078-maximum-alternating-sum-of-squares) |
 | [4084-maximize-sum-of-squares-of-digits](./4084-maximize-sum-of-squares-of-digits) |
+| [4147-minimum-cost-to-acquire-required-items](./4147-minimum-cost-to-acquire-required-items) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [561-array-partition](./561-array-partition) |
 | [605-can-place-flowers](./605-can-place-flowers) |
@@ -500,6 +501,7 @@
 | [3918-check-divisibility-by-digit-sum-and-product](./3918-check-divisibility-by-digit-sum-and-product) |
 | [4084-maximize-sum-of-squares-of-digits](./4084-maximize-sum-of-squares-of-digits) |
 | [4116-minimum-moves-to-equal-array-elements-iii](./4116-minimum-moves-to-equal-array-elements-iii) |
+| [4147-minimum-cost-to-acquire-required-items](./4147-minimum-cost-to-acquire-required-items) |
 | [4245-count-commas-in-range](./4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](./4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](./4256-construct-uniform-parity-array-i) |
