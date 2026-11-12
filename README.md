@@ -56,6 +56,7 @@
 | [3374-count-alternating-subarrays](./3374-count-alternating-subarrays) |
 | [3429-special-array-i](./3429-special-array-i) |
 | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
+| [3522-find-the-power-of-k-size-subarrays-i](./3522-find-the-power-of-k-size-subarrays-i) |
 | [363-max-sum-of-rectangle-no-larger-than-k](./363-max-sum-of-rectangle-no-larger-than-k) |
 | [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
@@ -648,6 +649,7 @@
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](./3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
+| [3522-find-the-power-of-k-size-subarrays-i](./3522-find-the-power-of-k-size-subarrays-i) |
 | [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](./4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [4412-count-good-cyclic-rotations](./4412-count-good-cyclic-rotations) |
 | [643-maximum-average-subarray-i](./643-maximum-average-subarray-i) |
