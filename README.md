@@ -53,6 +53,7 @@
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](./3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3374-count-alternating-subarrays](./3374-count-alternating-subarrays) |
 | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | [363-max-sum-of-rectangle-no-larger-than-k](./363-max-sum-of-rectangle-no-larger-than-k) |
 | [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer) |
@@ -495,6 +496,7 @@
 | [1501-circle-and-rectangle-overlapping](./1501-circle-and-rectangle-overlapping) |
 | [202-happy-number](./202-happy-number) |
 | [292-nim-game](./292-nim-game) |
+| [3374-count-alternating-subarrays](./3374-count-alternating-subarrays) |
 | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | [367-valid-perfect-square](./367-valid-perfect-square) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
