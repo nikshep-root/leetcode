@@ -54,6 +54,7 @@
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](./3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3374-count-alternating-subarrays](./3374-count-alternating-subarrays) |
+| [3427-special-array-ii](./3427-special-array-ii) |
 | [3429-special-array-i](./3429-special-array-i) |
 | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | [3522-find-the-power-of-k-size-subarrays-i](./3522-find-the-power-of-k-size-subarrays-i) |
@@ -134,6 +135,7 @@
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](./2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
+| [3427-special-array-ii](./3427-special-array-ii) |
 | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | [363-max-sum-of-rectangle-no-larger-than-k](./363-max-sum-of-rectangle-no-larger-than-k) |
 | [367-valid-perfect-square](./367-valid-perfect-square) |
@@ -588,6 +590,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
+| [3427-special-array-ii](./3427-special-array-ii) |
 | [363-max-sum-of-rectangle-no-larger-than-k](./363-max-sum-of-rectangle-no-larger-than-k) |
 | [4284-smallest-stable-index-i](./4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](./4285-smallest-stable-index-ii) |
