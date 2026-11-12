@@ -31,6 +31,7 @@
 | [1934-evaluate-the-bracket-pairs-of-a-string](./1934-evaluate-the-bracket-pairs-of-a-string) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [2048-build-array-from-permutation](./2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](./2058-concatenation-of-array) |
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | [2144-maximum-difference-between-increasing-elements](./2144-maximum-difference-between-increasing-elements) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](./2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -614,6 +615,7 @@
 | Problem Folder |
 | :--- |
 | [2048-build-array-from-permutation](./2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](./2058-concatenation-of-array) |
 | [2197-decode-the-slanted-ciphertext](./2197-decode-the-slanted-ciphertext) |
 | [2411-spiral-matrix-iv](./2411-spiral-matrix-iv) |
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
