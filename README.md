@@ -51,6 +51,7 @@
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](./3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | [363-max-sum-of-rectangle-no-larger-than-k](./363-max-sum-of-rectangle-no-larger-than-k) |
 | [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer) |
