@@ -440,6 +440,7 @@
 | [389-find-the-difference](./389-find-the-difference) |
 | [4080-smallest-missing-multiple-of-k](./4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
+| [4321-digit-frequency-score](./4321-digit-frequency-score) |
 | [4415-count-values-with-equally-spaced-occurrences-i](./4415-count-values-with-equally-spaced-occurrences-i) |
 | [442-find-all-duplicates-in-an-array](./442-find-all-duplicates-in-an-array) |
 | [448-find-all-numbers-disappeared-in-an-array](./448-find-all-numbers-disappeared-in-an-array) |
@@ -514,6 +515,7 @@
 | [4248-count-commas-in-range-ii](./4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](./4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](./4258-construct-uniform-parity-array-ii) |
+| [4321-digit-frequency-score](./4321-digit-frequency-score) |
 | [453-minimum-moves-to-equal-array-elements](./453-minimum-moves-to-equal-array-elements) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 | [7-reverse-integer](./7-reverse-integer) |
