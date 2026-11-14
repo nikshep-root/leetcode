@@ -59,6 +59,7 @@
 | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | [3522-find-the-power-of-k-size-subarrays-i](./3522-find-the-power-of-k-size-subarrays-i) |
 | [363-max-sum-of-rectangle-no-larger-than-k](./363-max-sum-of-rectangle-no-larger-than-k) |
+| [3644-minimum-positive-sum-subarray](./3644-minimum-positive-sum-subarray) |
 | [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
 | [3823-count-islands-with-total-value-divisible-by-k](./3823-count-islands-with-total-value-divisible-by-k) |
@@ -594,6 +595,7 @@
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
 | [3427-special-array-ii](./3427-special-array-ii) |
 | [363-max-sum-of-rectangle-no-larger-than-k](./363-max-sum-of-rectangle-no-larger-than-k) |
+| [3644-minimum-positive-sum-subarray](./3644-minimum-positive-sum-subarray) |
 | [4284-smallest-stable-index-i](./4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](./4285-smallest-stable-index-ii) |
 | [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
@@ -655,6 +657,7 @@
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 | [3522-find-the-power-of-k-size-subarrays-i](./3522-find-the-power-of-k-size-subarrays-i) |
+| [3644-minimum-positive-sum-subarray](./3644-minimum-positive-sum-subarray) |
 | [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](./4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [4412-count-good-cyclic-rotations](./4412-count-good-cyclic-rotations) |
 | [643-maximum-average-subarray-i](./643-maximum-average-subarray-i) |
@@ -740,6 +743,7 @@
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
 | [389-find-the-difference](./389-find-the-difference) |
 | [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](./4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+| [4432-find-mismatched-segments-between-two-strings](./4432-find-mismatched-segments-between-two-strings) |
 | [49-group-anagrams](./49-group-anagrams) |
 | [541-reverse-string-ii](./541-reverse-string-ii) |
 | [678-valid-parenthesis-string](./678-valid-parenthesis-string) |
@@ -830,7 +834,6 @@
 | [4342-create-grid-with-exactly-one-path](./4342-create-grid-with-exactly-one-path) |
 | [4391-count-subarrays-with-loose-bounds](./4391-count-subarrays-with-loose-bounds) |
 | [4430-minimum-deletions-to-make-array-sharp](./4430-minimum-deletions-to-make-array-sharp) |
-| [4432-find-mismatched-segments-between-two-strings](./4432-find-mismatched-segments-between-two-strings) |
 | [4436-difference-between-peaks-and-valleys](./4436-difference-between-peaks-and-valleys) |
 | [4448-minimum-value-of-merged-integers](./4448-minimum-value-of-merged-integers) |
 | [4449-binary-digit-score](./4449-binary-digit-score) |
