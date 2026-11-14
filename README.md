@@ -721,6 +721,7 @@
 | Problem Folder |
 | :--- |
 | [1078-remove-outermost-parentheses](./1078-remove-outermost-parentheses) |
+| [1205-defanging-an-ip-address](./1205-defanging-an-ip-address) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [125-valid-palindrome](./125-valid-palindrome) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses) |
