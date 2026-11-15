@@ -507,6 +507,7 @@
 | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | [367-valid-perfect-square](./367-valid-perfect-square) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
+| [3830-find-closest-person](./3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](./3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](./3859-maximum-product-of-two-digits) |
 | [3918-check-divisibility-by-digit-sum-and-product](./3918-check-divisibility-by-digit-sum-and-product) |
