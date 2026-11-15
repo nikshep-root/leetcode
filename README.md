@@ -25,6 +25,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](./1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](./1580-shuffle-the-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](./1631-number-of-sub-arrays-with-odd-sum) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
@@ -331,6 +332,7 @@
 | [121-best-time-to-buy-and-sell-stock](./121-best-time-to-buy-and-sell-stock) |
 | [122-best-time-to-buy-and-sell-stock-ii](./122-best-time-to-buy-and-sell-stock-ii) |
 | [123-best-time-to-buy-and-sell-stock-iii](./123-best-time-to-buy-and-sell-stock-iii) |
+| [1631-number-of-sub-arrays-with-odd-sum](./1631-number-of-sub-arrays-with-odd-sum) |
 | [53-maximum-subarray](./53-maximum-subarray) |
 | [678-valid-parenthesis-string](./678-valid-parenthesis-string) |
 | [909-stone-game](./909-stone-game) |
@@ -500,6 +502,7 @@
 | Problem Folder |
 | :--- |
 | [1501-circle-and-rectangle-overlapping](./1501-circle-and-rectangle-overlapping) |
+| [1631-number-of-sub-arrays-with-odd-sum](./1631-number-of-sub-arrays-with-odd-sum) |
 | [202-happy-number](./202-happy-number) |
 | [2556-convert-the-temperature](./2556-convert-the-temperature) |
 | [292-nim-game](./292-nim-game) |
@@ -592,6 +595,7 @@
 | :--- |
 | [1046-max-consecutive-ones-iii](./1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](./1538-maximum-points-you-can-obtain-from-cards) |
+| [1631-number-of-sub-arrays-with-odd-sum](./1631-number-of-sub-arrays-with-odd-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
