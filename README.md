@@ -634,6 +634,7 @@
 | [2048-build-array-from-permutation](./2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](./2058-concatenation-of-array) |
 | [2197-decode-the-slanted-ciphertext](./2197-decode-the-slanted-ciphertext) |
+| [2361-calculate-digit-sum-of-a-string](./2361-calculate-digit-sum-of-a-string) |
 | [2411-spiral-matrix-iv](./2411-spiral-matrix-iv) |
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | [3811-reverse-degree-of-a-string](./3811-reverse-degree-of-a-string) |
@@ -738,6 +739,7 @@
 | [20-valid-parentheses](./20-valid-parentheses) |
 | [2197-decode-the-slanted-ciphertext](./2197-decode-the-slanted-ciphertext) |
 | [2304-cells-in-a-range-on-an-excel-sheet](./2304-cells-in-a-range-on-an-excel-sheet) |
+| [2361-calculate-digit-sum-of-a-string](./2361-calculate-digit-sum-of-a-string) |
 | [242-valid-anagram](./242-valid-anagram) |
 | [2786-find-the-longest-semi-repetitive-substring](./2786-find-the-longest-semi-repetitive-substring) |
 | [3-longest-substring-without-repeating-characters](./3-longest-substring-without-repeating-characters) |
