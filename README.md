@@ -38,6 +38,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](./2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2212-removing-minimum-and-maximum-from-array](./2212-removing-minimum-and-maximum-from-array) |
 | [2215-finding-3-digit-even-numbers](./2215-finding-3-digit-even-numbers) |
+| [2324-find-triangular-sum-of-an-array](./2324-find-triangular-sum-of-an-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](./2338-minimum-consecutive-cards-to-pick-up) |
 | [238-product-of-array-except-self](./238-product-of-array-except-self) |
 | [2411-spiral-matrix-iv](./2411-spiral-matrix-iv) |
@@ -232,6 +233,13 @@
 | Problem Folder |
 | :--- |
 | [1137-height-checker](./1137-height-checker) |
+
+
+## Combinatorics
+
+| Problem Folder |
+| :--- |
+| [2324-find-triangular-sum-of-an-array](./2324-find-triangular-sum-of-an-array) |
 
 
 ## Concurrency
@@ -504,6 +512,7 @@
 | [1501-circle-and-rectangle-overlapping](./1501-circle-and-rectangle-overlapping) |
 | [1631-number-of-sub-arrays-with-odd-sum](./1631-number-of-sub-arrays-with-odd-sum) |
 | [202-happy-number](./202-happy-number) |
+| [2324-find-triangular-sum-of-an-array](./2324-find-triangular-sum-of-an-array) |
 | [2556-convert-the-temperature](./2556-convert-the-temperature) |
 | [292-nim-game](./292-nim-game) |
 | [3374-count-alternating-subarrays](./3374-count-alternating-subarrays) |
@@ -582,6 +591,13 @@
 | [292-nim-game](./292-nim-game) |
 
 
+## Number Theory
+
+| Problem Folder |
+| :--- |
+| [2324-find-triangular-sum-of-an-array](./2324-find-triangular-sum-of-an-array) |
+
+
 ## Ordered Set
 
 | Problem Folder |
@@ -634,6 +650,7 @@
 | [2048-build-array-from-permutation](./2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](./2058-concatenation-of-array) |
 | [2197-decode-the-slanted-ciphertext](./2197-decode-the-slanted-ciphertext) |
+| [2324-find-triangular-sum-of-an-array](./2324-find-triangular-sum-of-an-array) |
 | [2361-calculate-digit-sum-of-a-string](./2361-calculate-digit-sum-of-a-string) |
 | [2411-spiral-matrix-iv](./2411-spiral-matrix-iv) |
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
