@@ -457,6 +457,7 @@
 | [448-find-all-numbers-disappeared-in-an-array](./448-find-all-numbers-disappeared-in-an-array) |
 | [49-group-anagrams](./49-group-anagrams) |
 | [496-next-greater-element-i](./496-next-greater-element-i) |
+| [567-permutation-in-string](./567-permutation-in-string) |
 | [782-jewels-and-stones](./782-jewels-and-stones) |
 | [940-fruit-into-baskets](./940-fruit-into-baskets) |
 | [990-verifying-an-alien-dictionary](./990-verifying-an-alien-dictionary) |
@@ -685,6 +686,7 @@
 | [3644-minimum-positive-sum-subarray](./3644-minimum-positive-sum-subarray) |
 | [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](./4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [4412-count-good-cyclic-rotations](./4412-count-good-cyclic-rotations) |
+| [567-permutation-in-string](./567-permutation-in-string) |
 | [643-maximum-average-subarray-i](./643-maximum-average-subarray-i) |
 | [940-fruit-into-baskets](./940-fruit-into-baskets) |
 
@@ -773,6 +775,7 @@
 | [4432-find-mismatched-segments-between-two-strings](./4432-find-mismatched-segments-between-two-strings) |
 | [49-group-anagrams](./49-group-anagrams) |
 | [541-reverse-string-ii](./541-reverse-string-ii) |
+| [567-permutation-in-string](./567-permutation-in-string) |
 | [678-valid-parenthesis-string](./678-valid-parenthesis-string) |
 | [782-jewels-and-stones](./782-jewels-and-stones) |
 | [812-rotate-string](./812-rotate-string) |
@@ -850,6 +853,7 @@
 | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | [4363-minimum-total-price-after-applying-discounts](./4363-minimum-total-price-after-applying-discounts) |
 | [541-reverse-string-ii](./541-reverse-string-ii) |
+| [567-permutation-in-string](./567-permutation-in-string) |
 | [80-remove-duplicates-from-sorted-array-ii](./80-remove-duplicates-from-sorted-array-ii) |
 | [917-boats-to-save-people](./917-boats-to-save-people) |
 | [941-sort-array-by-parity](./941-sort-array-by-parity) |
