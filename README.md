@@ -452,6 +452,7 @@
 | [4080-smallest-missing-multiple-of-k](./4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
 | [4321-digit-frequency-score](./4321-digit-frequency-score) |
+| [438-find-all-anagrams-in-a-string](./438-find-all-anagrams-in-a-string) |
 | [4415-count-values-with-equally-spaced-occurrences-i](./4415-count-values-with-equally-spaced-occurrences-i) |
 | [442-find-all-duplicates-in-an-array](./442-find-all-duplicates-in-an-array) |
 | [448-find-all-numbers-disappeared-in-an-array](./448-find-all-numbers-disappeared-in-an-array) |
@@ -684,6 +685,7 @@
 | [3349-maximum-length-substring-with-two-occurrences](./3349-maximum-length-substring-with-two-occurrences) |
 | [3522-find-the-power-of-k-size-subarrays-i](./3522-find-the-power-of-k-size-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](./3644-minimum-positive-sum-subarray) |
+| [438-find-all-anagrams-in-a-string](./438-find-all-anagrams-in-a-string) |
 | [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](./4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [4412-count-good-cyclic-rotations](./4412-count-good-cyclic-rotations) |
 | [567-permutation-in-string](./567-permutation-in-string) |
@@ -771,6 +773,7 @@
 | [3811-reverse-degree-of-a-string](./3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
 | [389-find-the-difference](./389-find-the-difference) |
+| [438-find-all-anagrams-in-a-string](./438-find-all-anagrams-in-a-string) |
 | [4411-count-rotations-with-exactly-k-equal-adjacent-pairs](./4411-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [4432-find-mismatched-segments-between-two-strings](./4432-find-mismatched-segments-between-two-strings) |
 | [49-group-anagrams](./49-group-anagrams) |
