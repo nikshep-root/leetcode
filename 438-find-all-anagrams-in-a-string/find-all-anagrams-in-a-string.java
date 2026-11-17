@@ -1,6 +1,5 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-        //if(p.length() > s.length()) return false;
         int[] freq1 = new int[26];
         for(int i =0;i<p.length();i++){
             freq1[p.charAt(i)-'a']++;
