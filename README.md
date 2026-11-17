@@ -457,6 +457,7 @@
 | [448-find-all-numbers-disappeared-in-an-array](./448-find-all-numbers-disappeared-in-an-array) |
 | [49-group-anagrams](./49-group-anagrams) |
 | [496-next-greater-element-i](./496-next-greater-element-i) |
+| [782-jewels-and-stones](./782-jewels-and-stones) |
 | [940-fruit-into-baskets](./940-fruit-into-baskets) |
 | [990-verifying-an-alien-dictionary](./990-verifying-an-alien-dictionary) |
 
@@ -773,6 +774,7 @@
 | [49-group-anagrams](./49-group-anagrams) |
 | [541-reverse-string-ii](./541-reverse-string-ii) |
 | [678-valid-parenthesis-string](./678-valid-parenthesis-string) |
+| [782-jewels-and-stones](./782-jewels-and-stones) |
 | [812-rotate-string](./812-rotate-string) |
 | [886-score-of-parentheses](./886-score-of-parentheses) |
 | [957-minimum-add-to-make-parentheses-valid](./957-minimum-add-to-make-parentheses-valid) |
