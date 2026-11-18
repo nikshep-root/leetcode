@@ -29,6 +29,7 @@
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
+| [1791-richest-customer-wealth](./1791-richest-customer-wealth) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](./1934-evaluate-the-bracket-pairs-of-a-string) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [2048-build-array-from-permutation](./2048-build-array-from-permutation) |
@@ -551,6 +552,7 @@
 | [1380-number-of-closed-islands](./1380-number-of-closed-islands) |
 | [1396-count-servers-that-communicate](./1396-count-servers-that-communicate) |
 | [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](./1791-richest-customer-wealth) |
 | [200-number-of-islands](./200-number-of-islands) |
 | [2411-spiral-matrix-iv](./2411-spiral-matrix-iv) |
 | [363-max-sum-of-rectangle-no-larger-than-k](./363-max-sum-of-rectangle-no-larger-than-k) |
