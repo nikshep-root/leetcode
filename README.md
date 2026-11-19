@@ -47,6 +47,7 @@
 | [26-remove-duplicates-from-sorted-array](./26-remove-duplicates-from-sorted-array) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [27-remove-element](./27-remove-element) |
+| [2706-minimum-score-by-changing-two-elements](./2706-minimum-score-by-changing-two-elements) |
 | [283-move-zeroes](./283-move-zeroes) |
 | [2844-sum-of-squares-of-special-elements](./2844-sum-of-squares-of-special-elements) |
 | [2954-maximum-sum-of-almost-unique-subarray](./2954-maximum-sum-of-almost-unique-subarray) |
@@ -413,6 +414,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](./2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2212-removing-minimum-and-maximum-from-array](./2212-removing-minimum-and-maximum-from-array) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
+| [2706-minimum-score-by-changing-two-elements](./2706-minimum-score-by-changing-two-elements) |
 | [4078-maximum-alternating-sum-of-squares](./4078-maximum-alternating-sum-of-squares) |
 | [4084-maximize-sum-of-squares-of-digits](./4084-maximize-sum-of-squares-of-digits) |
 | [4147-minimum-cost-to-acquire-required-items](./4147-minimum-cost-to-acquire-required-items) |
@@ -709,6 +711,7 @@
 | [2215-finding-3-digit-even-numbers](./2215-finding-3-digit-even-numbers) |
 | [242-valid-anagram](./242-valid-anagram) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
+| [2706-minimum-score-by-changing-two-elements](./2706-minimum-score-by-changing-two-elements) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
