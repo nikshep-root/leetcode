@@ -50,6 +50,7 @@
 | [2706-minimum-score-by-changing-two-elements](./2706-minimum-score-by-changing-two-elements) |
 | [283-move-zeroes](./283-move-zeroes) |
 | [2844-sum-of-squares-of-special-elements](./2844-sum-of-squares-of-special-elements) |
+| [2917-count-pairs-whose-sum-is-less-than-target](./2917-count-pairs-whose-sum-is-less-than-target) |
 | [2954-maximum-sum-of-almost-unique-subarray](./2954-maximum-sum-of-almost-unique-subarray) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](./3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3194-find-words-containing-character](./3194-find-words-containing-character) |
@@ -140,6 +141,7 @@
 | [209-minimum-size-subarray-sum](./209-minimum-size-subarray-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](./2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
+| [2917-count-pairs-whose-sum-is-less-than-target](./2917-count-pairs-whose-sum-is-less-than-target) |
 | [3427-special-array-ii](./3427-special-array-ii) |
 | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | [363-max-sum-of-rectangle-no-larger-than-k](./363-max-sum-of-rectangle-no-larger-than-k) |
@@ -712,6 +714,7 @@
 | [242-valid-anagram](./242-valid-anagram) |
 | [2600-maximum-tastiness-of-candy-basket](./2600-maximum-tastiness-of-candy-basket) |
 | [2706-minimum-score-by-changing-two-elements](./2706-minimum-score-by-changing-two-elements) |
+| [2917-count-pairs-whose-sum-is-less-than-target](./2917-count-pairs-whose-sum-is-less-than-target) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | [3812-smallest-palindromic-rearrangement-i](./3812-smallest-palindromic-rearrangement-i) |
@@ -857,6 +860,7 @@
 | [26-remove-duplicates-from-sorted-array](./26-remove-duplicates-from-sorted-array) |
 | [27-remove-element](./27-remove-element) |
 | [283-move-zeroes](./283-move-zeroes) |
+| [2917-count-pairs-whose-sum-is-less-than-target](./2917-count-pairs-whose-sum-is-less-than-target) |
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | [344-reverse-string](./344-reverse-string) |
 | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
