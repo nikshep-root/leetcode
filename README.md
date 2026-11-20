@@ -71,6 +71,7 @@
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](./3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3950-maximum-k-to-sort-a-permutation](./3950-maximum-k-to-sort-a-permutation) |
+| [4058-compute-alternating-sum](./4058-compute-alternating-sum) |
 | [4078-maximum-alternating-sum-of-squares](./4078-maximum-alternating-sum-of-squares) |
 | [4080-smallest-missing-multiple-of-k](./4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
@@ -664,6 +665,7 @@
 | [2411-spiral-matrix-iv](./2411-spiral-matrix-iv) |
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
 | [3811-reverse-degree-of-a-string](./3811-reverse-degree-of-a-string) |
+| [4058-compute-alternating-sum](./4058-compute-alternating-sum) |
 | [4384-elevator-requests-i](./4384-elevator-requests-i) |
 | [498-diagonal-traverse](./498-diagonal-traverse) |
 | [54-spiral-matrix](./54-spiral-matrix) |
