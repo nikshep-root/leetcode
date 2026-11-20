@@ -523,6 +523,7 @@
 | [202-happy-number](./202-happy-number) |
 | [2324-find-triangular-sum-of-an-array](./2324-find-triangular-sum-of-an-array) |
 | [2556-convert-the-temperature](./2556-convert-the-temperature) |
+| [2630-alternating-digit-sum](./2630-alternating-digit-sum) |
 | [292-nim-game](./292-nim-game) |
 | [3374-count-alternating-subarrays](./3374-count-alternating-subarrays) |
 | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
