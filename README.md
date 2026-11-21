@@ -263,6 +263,7 @@
 | :--- |
 | [1396-count-servers-that-communicate](./1396-count-servers-that-communicate) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
+| [1890-sum-of-beauty-of-all-substrings](./1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
 
 
@@ -438,6 +439,7 @@
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
+| [1890-sum-of-beauty-of-all-substrings](./1890-sum-of-beauty-of-all-substrings) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](./1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
 | [202-happy-number](./202-happy-number) |
@@ -767,6 +769,7 @@
 | [1648-minimum-insertions-to-balance-a-parentheses-string](./1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](./1737-maximum-nesting-depth-of-the-parentheses) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
+| [1890-sum-of-beauty-of-all-substrings](./1890-sum-of-beauty-of-all-substrings) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](./1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
 | [20-valid-parentheses](./20-valid-parentheses) |
