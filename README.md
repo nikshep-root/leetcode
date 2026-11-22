@@ -9,6 +9,7 @@
 | [1046-max-consecutive-ones-iii](./1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](./1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](./1073-number-of-enclaves) |
+| [108-convert-sorted-array-to-binary-search-tree](./108-convert-sorted-array-to-binary-search-tree) |
 | [11-container-with-most-water](./11-container-with-most-water) |
 | [1137-height-checker](./1137-height-checker) |
 | [121-best-time-to-buy-and-sell-stock](./121-best-time-to-buy-and-sell-stock) |
@@ -154,6 +155,7 @@
 
 | Problem Folder |
 | :--- |
+| [108-convert-sorted-array-to-binary-search-tree](./108-convert-sorted-array-to-binary-search-tree) |
 | [109-convert-sorted-list-to-binary-search-tree](./109-convert-sorted-list-to-binary-search-tree) |
 | [98-validate-binary-search-tree](./98-validate-binary-search-tree) |
 
@@ -164,6 +166,7 @@
 | :--- |
 | [101-symmetric-tree](./101-symmetric-tree) |
 | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
+| [108-convert-sorted-array-to-binary-search-tree](./108-convert-sorted-array-to-binary-search-tree) |
 | [109-convert-sorted-list-to-binary-search-tree](./109-convert-sorted-list-to-binary-search-tree) |
 | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | [112-path-sum](./112-path-sum) |
@@ -339,6 +342,7 @@
 
 | Problem Folder |
 | :--- |
+| [108-convert-sorted-array-to-binary-search-tree](./108-convert-sorted-array-to-binary-search-tree) |
 | [109-convert-sorted-list-to-binary-search-tree](./109-convert-sorted-list-to-binary-search-tree) |
 | [23-merge-k-sorted-lists](./23-merge-k-sorted-lists) |
 | [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
@@ -853,6 +857,7 @@
 | :--- |
 | [101-symmetric-tree](./101-symmetric-tree) |
 | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
+| [108-convert-sorted-array-to-binary-search-tree](./108-convert-sorted-array-to-binary-search-tree) |
 | [109-convert-sorted-list-to-binary-search-tree](./109-convert-sorted-list-to-binary-search-tree) |
 | [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | [112-path-sum](./112-path-sum) |
