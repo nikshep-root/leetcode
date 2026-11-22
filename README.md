@@ -891,6 +891,7 @@
 | [4448-minimum-value-of-merged-integers](./4448-minimum-value-of-merged-integers) |
 | [4449-binary-digit-score](./4449-binary-digit-score) |
 | [4456-last-visited-cell-in-a-directional-grid](./4456-last-visited-cell-in-a-directional-grid) |
+| [4482-assign-umbrella-on-rainy-days](./4482-assign-umbrella-on-rainy-days) |
 
 
 ## Union-Find
