@@ -774,6 +774,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
 | [20-valid-parentheses](./20-valid-parentheses) |
 | [2197-decode-the-slanted-ciphertext](./2197-decode-the-slanted-ciphertext) |
+| [2243-check-if-all-as-appears-before-all-bs](./2243-check-if-all-as-appears-before-all-bs) |
 | [2304-cells-in-a-range-on-an-excel-sheet](./2304-cells-in-a-range-on-an-excel-sheet) |
 | [2361-calculate-digit-sum-of-a-string](./2361-calculate-digit-sum-of-a-string) |
 | [242-valid-anagram](./242-valid-anagram) |
