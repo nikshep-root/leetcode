@@ -163,6 +163,7 @@
 | :--- |
 | [101-symmetric-tree](./101-symmetric-tree) |
 | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
+| [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | [112-path-sum](./112-path-sum) |
 | [114-flatten-binary-tree-to-linked-list](./114-flatten-binary-tree-to-linked-list) |
 | [129-sum-root-to-leaf-numbers](./129-sum-root-to-leaf-numbers) |
@@ -217,6 +218,7 @@
 | [1036-rotting-oranges](./1036-rotting-oranges) |
 | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 | [1073-number-of-enclaves](./1073-number-of-enclaves) |
+| [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | [112-path-sum](./112-path-sum) |
 | [130-surrounded-regions](./130-surrounded-regions) |
 | [1380-number-of-closed-islands](./1380-number-of-closed-islands) |
@@ -303,6 +305,7 @@
 | [101-symmetric-tree](./101-symmetric-tree) |
 | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
 | [1073-number-of-enclaves](./1073-number-of-enclaves) |
+| [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | [112-path-sum](./112-path-sum) |
 | [114-flatten-binary-tree-to-linked-list](./114-flatten-binary-tree-to-linked-list) |
 | [129-sum-root-to-leaf-numbers](./129-sum-root-to-leaf-numbers) |
@@ -846,6 +849,7 @@
 | :--- |
 | [101-symmetric-tree](./101-symmetric-tree) |
 | [104-maximum-depth-of-binary-tree](./104-maximum-depth-of-binary-tree) |
+| [111-minimum-depth-of-binary-tree](./111-minimum-depth-of-binary-tree) |
 | [112-path-sum](./112-path-sum) |
 | [114-flatten-binary-tree-to-linked-list](./114-flatten-binary-tree-to-linked-list) |
 | [129-sum-root-to-leaf-numbers](./129-sum-root-to-leaf-numbers) |
