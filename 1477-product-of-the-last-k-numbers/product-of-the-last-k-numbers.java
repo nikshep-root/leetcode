@@ -1,18 +1,18 @@
 class ProductOfNumbers {
-    private List<Integer> arr;
+    private List<Integer> list;
     public ProductOfNumbers() {
-        arr = new ArrayList<>();
+        list = new ArrayList<>();
     }
     
     public void add(int num) {
-        arr.add(num);
+        list.add(num);
     }
     
     public int getProduct(int k) {
-        int  i = arr.size()-1;
+        int  i = list.size()-1;
         int p =1;
         while(k-- != 0){
-            p *= arr.get(i--);
+            p *= list.get(i--);
         }
         return p;
     }
