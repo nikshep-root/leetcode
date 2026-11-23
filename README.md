@@ -22,6 +22,7 @@
 | [1396-count-servers-that-communicate](./1396-count-servers-that-communicate) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](./1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
+| [1477-product-of-the-last-k-numbers](./1477-product-of-the-last-k-numbers) |
 | [1486-find-the-distance-value-between-two-arrays](./1486-find-the-distance-value-between-two-arrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](./1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
@@ -283,6 +284,13 @@
 | [561-array-partition](./561-array-partition) |
 
 
+## Data Stream
+
+| Problem Folder |
+| :--- |
+| [1477-product-of-the-last-k-numbers](./1477-product-of-the-last-k-numbers) |
+
+
 ## Database
 
 | Problem Folder |
@@ -329,6 +337,13 @@
 | [801-is-graph-bipartite](./801-is-graph-bipartite) |
 | [820-find-eventual-safe-states](./820-find-eventual-safe-states) |
 | [98-validate-binary-search-tree](./98-validate-binary-search-tree) |
+
+
+## Design
+
+| Problem Folder |
+| :--- |
+| [1477-product-of-the-last-k-numbers](./1477-product-of-the-last-k-numbers) |
 
 
 ## Directed Acyclic Graph
@@ -531,6 +546,7 @@
 
 | Problem Folder |
 | :--- |
+| [1477-product-of-the-last-k-numbers](./1477-product-of-the-last-k-numbers) |
 | [1501-circle-and-rectangle-overlapping](./1501-circle-and-rectangle-overlapping) |
 | [1631-number-of-sub-arrays-with-odd-sum](./1631-number-of-sub-arrays-with-odd-sum) |
 | [202-happy-number](./202-happy-number) |
@@ -634,6 +650,7 @@
 | Problem Folder |
 | :--- |
 | [1046-max-consecutive-ones-iii](./1046-max-consecutive-ones-iii) |
+| [1477-product-of-the-last-k-numbers](./1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](./1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](./1631-number-of-sub-arrays-with-odd-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
