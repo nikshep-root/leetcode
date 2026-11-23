@@ -9,12 +9,12 @@ class ProductOfNumbers {
     }
     
     public int getProduct(int k) {
-        int  i = list.size()-1;
-        int p =1;
+        int i = list.size()-1;
+        int prod =1;
         while(k-- != 0){
-            p *= list.get(i--);
+            prod *= list.get(i--);
         }
-        return p;
+        return prod;
     }
 }
 
