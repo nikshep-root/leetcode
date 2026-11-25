@@ -28,6 +28,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](./1580-shuffle-the-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](./1631-number-of-sub-arrays-with-odd-sum) |
+| [164-maximum-gap](./164-maximum-gap) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
@@ -246,6 +247,13 @@
 | Problem Folder |
 | :--- |
 | [1137-height-checker](./1137-height-checker) |
+
+
+## Bucket Sort
+
+| Problem Folder |
+| :--- |
+| [164-maximum-gap](./164-maximum-gap) |
 
 
 ## Combinatorics
@@ -645,6 +653,13 @@
 | [363-max-sum-of-rectangle-no-larger-than-k](./363-max-sum-of-rectangle-no-larger-than-k) |
 
 
+## Pigeonhole Principle
+
+| Problem Folder |
+| :--- |
+| [164-maximum-gap](./164-maximum-gap) |
+
+
 ## Prefix Sum
 
 | Problem Folder |
@@ -663,6 +678,13 @@
 | [4285-smallest-stable-index-ii](./4285-smallest-stable-index-ii) |
 | [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
 | [4412-count-good-cyclic-rotations](./4412-count-good-cyclic-rotations) |
+
+
+## Radix Sort
+
+| Problem Folder |
+| :--- |
+| [164-maximum-gap](./164-maximum-gap) |
 
 
 ## Recursion
@@ -741,6 +763,7 @@
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
 | [1486-find-the-distance-value-between-two-arrays](./1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
+| [164-maximum-gap](./164-maximum-gap) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [2215-finding-3-digit-even-numbers](./2215-finding-3-digit-even-numbers) |
