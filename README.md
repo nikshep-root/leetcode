@@ -28,6 +28,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](./1580-shuffle-the-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](./1631-number-of-sub-arrays-with-odd-sum) |
+| [1635-number-of-good-pairs](./1635-number-of-good-pairs) |
 | [164-maximum-gap](./164-maximum-gap) |
 | [1675-magnetic-force-between-two-balls](./1675-magnetic-force-between-two-balls) |
 | [1677-matrix-diagonal-sum](./1677-matrix-diagonal-sum) |
@@ -278,6 +279,7 @@
 | Problem Folder |
 | :--- |
 | [1396-count-servers-that-communicate](./1396-count-servers-that-communicate) |
+| [1635-number-of-good-pairs](./1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](./1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
@@ -470,6 +472,7 @@
 | [128-longest-consecutive-sequence](./128-longest-consecutive-sequence) |
 | [142-linked-list-cycle-ii](./142-linked-list-cycle-ii) |
 | [1464-reduce-array-size-to-the-half](./1464-reduce-array-size-to-the-half) |
+| [1635-number-of-good-pairs](./1635-number-of-good-pairs) |
 | [1776-minimum-operations-to-reduce-x-to-zero](./1776-minimum-operations-to-reduce-x-to-zero) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](./1890-sum-of-beauty-of-all-substrings) |
@@ -557,6 +560,7 @@
 | [1477-product-of-the-last-k-numbers](./1477-product-of-the-last-k-numbers) |
 | [1501-circle-and-rectangle-overlapping](./1501-circle-and-rectangle-overlapping) |
 | [1631-number-of-sub-arrays-with-odd-sum](./1631-number-of-sub-arrays-with-odd-sum) |
+| [1635-number-of-good-pairs](./1635-number-of-good-pairs) |
 | [202-happy-number](./202-happy-number) |
 | [2324-find-triangular-sum-of-an-array](./2324-find-triangular-sum-of-an-array) |
 | [2556-convert-the-temperature](./2556-convert-the-temperature) |
