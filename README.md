@@ -567,6 +567,7 @@
 | [2630-alternating-digit-sum](./2630-alternating-digit-sum) |
 | [292-nim-game](./292-nim-game) |
 | [3374-count-alternating-subarrays](./3374-count-alternating-subarrays) |
+| [3625-stone-removal-game](./3625-stone-removal-game) |
 | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | [367-valid-perfect-square](./367-valid-perfect-square) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
@@ -721,6 +722,7 @@
 | [2361-calculate-digit-sum-of-a-string](./2361-calculate-digit-sum-of-a-string) |
 | [2411-spiral-matrix-iv](./2411-spiral-matrix-iv) |
 | [3347-distribute-elements-into-two-arrays-i](./3347-distribute-elements-into-two-arrays-i) |
+| [3625-stone-removal-game](./3625-stone-removal-game) |
 | [3811-reverse-degree-of-a-string](./3811-reverse-degree-of-a-string) |
 | [4058-compute-alternating-sum](./4058-compute-alternating-sum) |
 | [4384-elevator-requests-i](./4384-elevator-requests-i) |
