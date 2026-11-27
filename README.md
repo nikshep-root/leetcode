@@ -94,6 +94,7 @@
 | [448-find-all-numbers-disappeared-in-an-array](./448-find-all-numbers-disappeared-in-an-array) |
 | [453-minimum-moves-to-equal-array-elements](./453-minimum-moves-to-equal-array-elements) |
 | [463-island-perimeter](./463-island-perimeter) |
+| [48-rotate-image](./48-rotate-image) |
 | [49-group-anagrams](./49-group-anagrams) |
 | [496-next-greater-element-i](./496-next-greater-element-i) |
 | [498-diagonal-traverse](./498-diagonal-traverse) |
@@ -584,6 +585,7 @@
 | [4258-construct-uniform-parity-array-ii](./4258-construct-uniform-parity-array-ii) |
 | [4321-digit-frequency-score](./4321-digit-frequency-score) |
 | [453-minimum-moves-to-equal-array-elements](./453-minimum-moves-to-equal-array-elements) |
+| [48-rotate-image](./48-rotate-image) |
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 | [7-reverse-integer](./7-reverse-integer) |
 | [866-rectangle-overlap](./866-rectangle-overlap) |
@@ -606,6 +608,7 @@
 | [363-max-sum-of-rectangle-no-larger-than-k](./363-max-sum-of-rectangle-no-larger-than-k) |
 | [3823-count-islands-with-total-value-divisible-by-k](./3823-count-islands-with-total-value-divisible-by-k) |
 | [463-island-perimeter](./463-island-perimeter) |
+| [48-rotate-image](./48-rotate-image) |
 | [498-diagonal-traverse](./498-diagonal-traverse) |
 | [54-spiral-matrix](./54-spiral-matrix) |
 | [695-max-area-of-island](./695-max-area-of-island) |
