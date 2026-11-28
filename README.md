@@ -217,6 +217,7 @@
 
 | Problem Folder |
 | :--- |
+| [1362-airplane-seat-assignment-probability](./1362-airplane-seat-assignment-probability) |
 | [292-nim-game](./292-nim-game) |
 
 
@@ -384,6 +385,7 @@
 | [121-best-time-to-buy-and-sell-stock](./121-best-time-to-buy-and-sell-stock) |
 | [122-best-time-to-buy-and-sell-stock-ii](./122-best-time-to-buy-and-sell-stock-ii) |
 | [123-best-time-to-buy-and-sell-stock-iii](./123-best-time-to-buy-and-sell-stock-iii) |
+| [1362-airplane-seat-assignment-probability](./1362-airplane-seat-assignment-probability) |
 | [1631-number-of-sub-arrays-with-odd-sum](./1631-number-of-sub-arrays-with-odd-sum) |
 | [53-maximum-subarray](./53-maximum-subarray) |
 | [678-valid-parenthesis-string](./678-valid-parenthesis-string) |
@@ -561,6 +563,7 @@
 
 | Problem Folder |
 | :--- |
+| [1362-airplane-seat-assignment-probability](./1362-airplane-seat-assignment-probability) |
 | [1477-product-of-the-last-k-numbers](./1477-product-of-the-last-k-numbers) |
 | [1501-circle-and-rectangle-overlapping](./1501-circle-and-rectangle-overlapping) |
 | [1631-number-of-sub-arrays-with-odd-sum](./1631-number-of-sub-arrays-with-odd-sum) |
@@ -697,6 +700,7 @@
 
 | Problem Folder |
 | :--- |
+| [1362-airplane-seat-assignment-probability](./1362-airplane-seat-assignment-probability) |
 | [903-implement-rand10-using-rand7](./903-implement-rand10-using-rand7) |
 
 
