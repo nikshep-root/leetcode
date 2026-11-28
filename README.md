@@ -427,6 +427,7 @@
 | :--- |
 | [1501-circle-and-rectangle-overlapping](./1501-circle-and-rectangle-overlapping) |
 | [866-rectangle-overlap](./866-rectangle-overlap) |
+| [915-generate-random-point-in-a-circle](./915-generate-random-point-in-a-circle) |
 
 
 ## Graph Coloring
@@ -598,6 +599,7 @@
 | [866-rectangle-overlap](./866-rectangle-overlap) |
 | [903-implement-rand10-using-rand7](./903-implement-rand10-using-rand7) |
 | [909-stone-game](./909-stone-game) |
+| [915-generate-random-point-in-a-circle](./915-generate-random-point-in-a-circle) |
 
 
 ## Matrix
@@ -717,6 +719,7 @@
 | :--- |
 | [380-insert-delete-getrandom-o1](./380-insert-delete-getrandom-o1) |
 | [903-implement-rand10-using-rand7](./903-implement-rand10-using-rand7) |
+| [915-generate-random-point-in-a-circle](./915-generate-random-point-in-a-circle) |
 
 
 ## Recursion
@@ -735,6 +738,7 @@
 | Problem Folder |
 | :--- |
 | [903-implement-rand10-using-rand7](./903-implement-rand10-using-rand7) |
+| [915-generate-random-point-in-a-circle](./915-generate-random-point-in-a-circle) |
 
 
 ## Segment Tree
