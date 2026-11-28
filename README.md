@@ -27,6 +27,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](./1538-maximum-points-you-can-obtain-from-cards) |
 | [1574-maximum-product-of-two-elements-in-an-array](./1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](./1580-shuffle-the-array) |
+| [1582-design-browser-history](./1582-design-browser-history) |
 | [1631-number-of-sub-arrays-with-odd-sum](./1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](./1635-number-of-good-pairs) |
 | [164-maximum-gap](./164-maximum-gap) |
@@ -303,6 +304,7 @@
 | Problem Folder |
 | :--- |
 | [1477-product-of-the-last-k-numbers](./1477-product-of-the-last-k-numbers) |
+| [1582-design-browser-history](./1582-design-browser-history) |
 
 
 ## Database
@@ -358,6 +360,7 @@
 | Problem Folder |
 | :--- |
 | [1477-product-of-the-last-k-numbers](./1477-product-of-the-last-k-numbers) |
+| [1582-design-browser-history](./1582-design-browser-history) |
 | [1708-design-parking-system](./1708-design-parking-system) |
 | [380-insert-delete-getrandom-o1](./380-insert-delete-getrandom-o1) |
 
@@ -378,6 +381,13 @@
 | [23-merge-k-sorted-lists](./23-merge-k-sorted-lists) |
 | [4323-count-subarrays-with-even-odd-ratio-i](./4323-count-subarrays-with-even-odd-ratio-i) |
 | [53-maximum-subarray](./53-maximum-subarray) |
+
+
+## Doubly-Linked List
+
+| Problem Folder |
+| :--- |
+| [1582-design-browser-history](./1582-design-browser-history) |
 
 
 ## Dynamic Programming
@@ -547,6 +557,7 @@
 | [109-convert-sorted-list-to-binary-search-tree](./109-convert-sorted-list-to-binary-search-tree) |
 | [114-flatten-binary-tree-to-linked-list](./114-flatten-binary-tree-to-linked-list) |
 | [142-linked-list-cycle-ii](./142-linked-list-cycle-ii) |
+| [1582-design-browser-history](./1582-design-browser-history) |
 | [203-remove-linked-list-elements](./203-remove-linked-list-elements) |
 | [206-reverse-linked-list](./206-reverse-linked-list) |
 | [21-merge-two-sorted-lists](./21-merge-two-sorted-lists) |
@@ -844,6 +855,7 @@
 | [114-flatten-binary-tree-to-linked-list](./114-flatten-binary-tree-to-linked-list) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](./1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1582-design-browser-history](./1582-design-browser-history) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](./1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](./1737-maximum-nesting-depth-of-the-parentheses) |
 | [20-valid-parentheses](./20-valid-parentheses) |
