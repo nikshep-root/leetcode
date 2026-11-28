@@ -71,6 +71,7 @@
 | [3644-minimum-positive-sum-subarray](./3644-minimum-positive-sum-subarray) |
 | [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
+| [380-insert-delete-getrandom-o1](./380-insert-delete-getrandom-o1) |
 | [3823-count-islands-with-total-value-divisible-by-k](./3823-count-islands-with-total-value-divisible-by-k) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](./3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -355,6 +356,7 @@
 | Problem Folder |
 | :--- |
 | [1477-product-of-the-last-k-numbers](./1477-product-of-the-last-k-numbers) |
+| [380-insert-delete-getrandom-o1](./380-insert-delete-getrandom-o1) |
 
 
 ## Directed Acyclic Graph
@@ -493,6 +495,7 @@
 | [349-intersection-of-two-arrays](./349-intersection-of-two-arrays) |
 | [3705-find-the-largest-almost-missing-integer](./3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
+| [380-insert-delete-getrandom-o1](./380-insert-delete-getrandom-o1) |
 | [389-find-the-difference](./389-find-the-difference) |
 | [4080-smallest-missing-multiple-of-k](./4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](./4107-find-missing-elements) |
@@ -571,6 +574,7 @@
 | [3625-stone-removal-game](./3625-stone-removal-game) |
 | [3626-smallest-divisible-digit-product-i](./3626-smallest-divisible-digit-product-i) |
 | [367-valid-perfect-square](./367-valid-perfect-square) |
+| [380-insert-delete-getrandom-o1](./380-insert-delete-getrandom-o1) |
 | [3824-number-of-unique-xor-triplets-i](./3824-number-of-unique-xor-triplets-i) |
 | [3830-find-closest-person](./3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](./3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -707,6 +711,7 @@
 
 | Problem Folder |
 | :--- |
+| [380-insert-delete-getrandom-o1](./380-insert-delete-getrandom-o1) |
 | [903-implement-rand10-using-rand7](./903-implement-rand10-using-rand7) |
 
 
