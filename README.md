@@ -283,6 +283,7 @@
 | :--- |
 | [1396-count-servers-that-communicate](./1396-count-servers-that-communicate) |
 | [1635-number-of-good-pairs](./1635-number-of-good-pairs) |
+| [1708-design-parking-system](./1708-design-parking-system) |
 | [1777-determine-if-two-strings-are-close](./1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](./1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](./1987-substrings-of-size-three-with-distinct-characters) |
@@ -357,6 +358,7 @@
 | Problem Folder |
 | :--- |
 | [1477-product-of-the-last-k-numbers](./1477-product-of-the-last-k-numbers) |
+| [1708-design-parking-system](./1708-design-parking-system) |
 | [380-insert-delete-getrandom-o1](./380-insert-delete-getrandom-o1) |
 
 
@@ -753,6 +755,7 @@
 
 | Problem Folder |
 | :--- |
+| [1708-design-parking-system](./1708-design-parking-system) |
 | [2048-build-array-from-permutation](./2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](./2058-concatenation-of-array) |
 | [2197-decode-the-slanted-ciphertext](./2197-decode-the-slanted-ciphertext) |
