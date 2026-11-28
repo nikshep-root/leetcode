@@ -589,6 +589,7 @@
 | [628-maximum-product-of-three-numbers](./628-maximum-product-of-three-numbers) |
 | [7-reverse-integer](./7-reverse-integer) |
 | [866-rectangle-overlap](./866-rectangle-overlap) |
+| [903-implement-rand10-using-rand7](./903-implement-rand10-using-rand7) |
 | [909-stone-game](./909-stone-game) |
 
 
@@ -688,11 +689,25 @@
 | [4412-count-good-cyclic-rotations](./4412-count-good-cyclic-rotations) |
 
 
+## Probability and Statistics
+
+| Problem Folder |
+| :--- |
+| [903-implement-rand10-using-rand7](./903-implement-rand10-using-rand7) |
+
+
 ## Radix Sort
 
 | Problem Folder |
 | :--- |
 | [164-maximum-gap](./164-maximum-gap) |
+
+
+## Randomized
+
+| Problem Folder |
+| :--- |
+| [903-implement-rand10-using-rand7](./903-implement-rand10-using-rand7) |
 
 
 ## Recursion
@@ -704,6 +719,13 @@
 | [21-merge-two-sorted-lists](./21-merge-two-sorted-lists) |
 | [2215-finding-3-digit-even-numbers](./2215-finding-3-digit-even-numbers) |
 | [3799-unique-3-digit-even-numbers](./3799-unique-3-digit-even-numbers) |
+
+
+## Rejection Sampling
+
+| Problem Folder |
+| :--- |
+| [903-implement-rand10-using-rand7](./903-implement-rand10-using-rand7) |
 
 
 ## Segment Tree
